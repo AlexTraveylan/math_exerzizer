@@ -1,0 +1,9 @@
+Je comprends l'énoncé et la question posée, et je suis d'accord avec la réponse donnée. Je ne pense pas qu'il soit possible de donner une autre réponse correcte puisque la quantité totale de pompes effectuées n'est pas divisible autrement pour donner un nombre entier de personnes.
+
+L'unité utilisée dans cet exercice, qui est le nombre de pompes, est claire et ne prête pas à confusion. La question me semble suffisamment explicite car on demande simplement le nombre de personnes présentes en salle de sport.
+
+Je trouve que cette question demande une unique réponse, qui est un entier, parce que nous ne pouvons pas avoir une fraction ou un nombre décimal de personnes.
+
+Cependant, je pense que l'énoncé pourrait être amélioré en ajoutant une incitation à expliquer comment la réponse a été obtenue, parce qu'il est aussi important de comprendre le processus de résolution que de simplement trouver la bonne réponse. Sinon, l'exercice encourage juste à mémoriser des méthodes de résolution au lieu de comprendre comment utiliser les mathématiques pour résoudre des problèmes.
+
+De plus, je pense qu'il serait intéressant d'ajouter une seconde question qui permette d'approfondir le sujet. Par exemple, combien de pompes seraient effectuées si deux personnes supplémentaires participaient, ou bien combien de séries supplémentaires chaque personne devrait-elle faire pour atteindre un total de 2000 pompes ? Je pense que cela ajouterait de la profondeur à l'exercice tout en permettant à l'élève de pratiquer davantage les mathématiques.

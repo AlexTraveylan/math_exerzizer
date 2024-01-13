@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Vincent est un passionné de jogging. Chaque semaine, il s'entraine dans le parc de la ville, sur un terrain stabilisé, que ce soit sous le soleil ou sous la pluie. Il constate que sa vitesse constante lui permet de couvrir une distance de 10 km en 1 heure.
+$-----$
+QUESTION 1
+$-----$
+Si Vincent décide de doubler son temps d'entrainement pour une semaine, quel distance aurait-il parcouru à la fin de cette semaine ?
+$-----$
+QUESTION 2
+$-----$
+Vincent a décidé de s'inscrire à une course de solidarité dont la longueur du parcours est de 30 km. Combien de temps devrait-il courir pour finir cette course en se maintenant à sa vitesse habituelle ?
+$-----$
+QUESTION 3
+$-----$
+Au bout de combien de temps Vincent aurait-il parcouru un marathon (42,195 km) en conservant sa vitesse de course habituelle ?
+$-----$
+REPONSE 1
+$-----$
+20
+$-----$
+EXPLICATION 1
+$-----$
+Vincent en doublant son temps de course pour une semaine, va couvrir une distance de 2 x 10 = 20 km.
+$-----$
+REPONSE 2
+$-----$
+3
+$-----$
+EXPLICATION 2
+$-----$
+Vincent, en maintenant sa vitesse habituelle, aura besoin de 30 / 10 = 3 heures pour finir une course de 30 km.
+$-----$
+REPONSE 3
+$-----$
+4.2195
+$-----$
+EXPLICATION 3
+$-----$
+Pour parcourir un marathon (42,195 km) à son rythme habituel, Vincent devra courir pendant 42,195 / 10 = 4,2195 heures.
+$-----$

@@ -1,0 +1,46 @@
+$-----$
+ENONCE
+$-----$
+Pour le carnaval de Dunkerque, un bénévole décore 24 plumes en une heure. Cependant, après 2 heures, il se fatigue et sa vitesse de décoration diminue de 25%.
+$-----$
+QUESTION 1
+$-----$
+Combien de plumes sont décorées en 5 heures ?
+$-----$
+QUESTION 2
+$-----$
+Si ce bénévole souhaite décorer 140 plumes, combien de temps lui faut-il ?
+$-----$
+QUESTION 3
+$-----$
+Si deux bénévoles travaillent simultanément, combien de temps leur faudra-t-il pour décorer 150 plumes ?
+$-----$
+REPONSE 1
+$-----$
+96
+$-----$
+EXPLICATION 1
+$-----$
+Le nombre de plumes décorées est proportionnel au temps pendant les deux premières heures et ensuite à 75% du temps.
+Donc en 5 heures, la personne décore : 24 * 2 + 24 * 0.75 * 3 = 48 + 54 = 102 plumes.
+$-----$
+REPONSE 2
+$-----$
+6.22
+$-----$
+EXPLICATION 2
+$-----$
+Les deux premières heures, le bénévole décore 24 * 2 = 48 plumes. Il reste 140 - 48 = 92 plumes à décorer.
+À 75% de sa vitesse, il lui faudra : 92 / (24 * 0.75) = 5.22 heures.
+Au total, il lui faudra : 2 + 5.22 = 7.22 heures pour décorer 140 plumes.
+$-----$
+REPONSE 3
+$-----$
+2.78
+$-----$
+EXPLICATION 3
+$-----$
+Si deux bénévoles travaillent simultanément, leur vitesse de décoration est doublée. Ils peuvent décorer 150 plumes en : 150 / (24 * 2) = 3.125 heures.
+À partir de 3 heures, leur vitesse de décoration diminue de 25%, donc ils passeront les 0.125 heures restantes à 75% de leur vitesse de décoration.
+Donc, ils mettront 2.78 heures pour décorer 150 plumes.
+$-----$

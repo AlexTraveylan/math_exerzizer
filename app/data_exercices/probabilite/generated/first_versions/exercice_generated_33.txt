@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Vincent effectue des séances de jogging hebdomadaires et note le nombre de kilomètres effectués chaque semaine. Il constate que, lorsqu'il court pendant 1 heure, il couvre 10 km.
+$-----$
+QUESTION 1
+$-----$
+Combien de kilomètres couvrirait-il s'il courait 2 heures par semaine ?
+$-----$
+QUESTION 2
+$-----$
+Quelle est la durée de jogging nécessaire pour qu'il parcoure une distance de 30 km ?
+$-----$
+REPONSE 1
+$-----$
+20
+$-----$
+EXPLICATION 1
+$-----$
+La distance couverte est proportionnelle au temps de jogging. Ainsi, s'il court pendant 2 heures, il couvrira 2 x 10 = 20 km.
+$-----$
+REPONSE 2
+$-----$
+3
+$-----$
+EXPLICATION 2
+$-----$
+Si Vincent veut couvrir une distance de 30 km, il lui faut 30 / 10 = 3 heures de jogging.
+$-----$

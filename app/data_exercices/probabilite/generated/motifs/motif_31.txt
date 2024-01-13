@@ -1,0 +1,11 @@
+Je comprends l'énoncé et les questions. Le concept de proportionnalité est plutôt clair, bien que certains élèves pourraient avoir du mal à saisir son application dans un contexte réel comme la construction d'un mur. Les questions, cependant, sont concises et s'insèrent bien dans l'exemple.
+
+Concernant les réponses, je ne suis pas totalement d'accord. Pour la première question, la réponse pourrait être arrondie à 17 au lieu 16.7, puisque le sac de ciment ne peut pas être fractionné en pratique. Des malentendus pourraient survenir si l'on tient compte du nombre « précis » des sacs de ciment.
+
+Pour la deuxième question, je pense que la réponse est correcte, mais encore une fois, le problème de l'arrondissement peut se poser. Un mur de 27 mètres carrés précisément est sans doute peu probable dans une situation réelle.
+
+Je pense que l'une des confusions potentielles dans cet exercice pourrait résider dans les unités. Bien que le problème parle des sacs de ciment et des mètres carrés, il serait plus utile de préciser que l'on parle de sacs entiers de ciment, et d'arrondir la surface à l'unité la plus proche si nécessaire.
+
+Par ailleurs, chaque question demande bien une unique réponse.
+
+Enfin, il est aussi intéressant d'observer que les réponses ne sont pas nécessairement uniquement des nombres entiers, ce qui peut être source de confusion pour certains élèves. Dans la pratique, les unités comme les sacs de ciment ne sont pas généralement fractionnées, et il est préférable de se concentrer sur des valeurs concrètes et entières pour éviter de perturber les élèves avec des concepts difficiles à conceptualiser, comme un 'demi-sac' de ciment.

@@ -1,0 +1,33 @@
+$-----$
+ENONCE
+$-----$
+Le carnaval de Dunkerque est un des plus célèbres de France. Pour sa confection, un bénévole décore 24 plumes en une heure.
+$-----$
+QUESTION 1
+$-----$
+Combien de plumes sont décorées en 5 heures ?
+$-----$
+QUESTION 2
+$-----$
+Si un bénévole souhaite décorer 120 plumes, combien de temps lui faut-il ?
+$-----$
+REPONSE 1
+$-----$
+120
+$-----$
+EXPLICATION 1
+$-----$
+Le nombre de plumes décorées est proportionnel au temps passé.
+Le coefficient de proportionnalité est 24.
+Donc en 5 heures, la personne décore : 24 * 5 = 120 plumes.
+$-----$
+REPONSE 2
+$-----$
+5
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour décorer les plumes est proportionnel au nombre de plumes.
+Le coefficient de proportionnalité est 1/24.
+Donc pour 120 plumes, il faut : 120 / 24 = 5 heures.
+$-----$

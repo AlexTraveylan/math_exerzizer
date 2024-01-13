@@ -1,0 +1,11 @@
+L'énoncé et les questions sont assez clairs. La base de la question est assez simple – il s'agit d'une problématique de proportionnalité.
+
+Les réponses sont numériquement correctes, mais dans le contexte réel, elles pourraient être plus nuancées. Il présume d'une croissance parfaitement linéaire et uniforme des productions de pommes par arbre, ce qui n'est pas forcément le cas dans la réalité. En réalité, de nombreux facteurs peuvent affecter la production, tels que le sol, la météo, les parasites, etc.
+
+Je ne peux pas voir d'autres réponses possibles à ces questions – elles sont assez univoques. 
+
+Il pourrait y avoir une éventuelle confusion sur les unités en raison des nombres décimaux dans l'énoncé, mais l'explication résout bien cette confusion en précisant les unités utilisées dans chaque cas.
+
+Les questions sont suffisamment explicites, elles demandent bien une unique réponse.
+
+Cependant, l'une des améliorations possibles seraient d'ajouter plus de clarté sur l'aspect réel du problème posé, pour les rendre plus précises.

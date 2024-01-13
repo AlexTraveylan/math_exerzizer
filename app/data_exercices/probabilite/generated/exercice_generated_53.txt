@@ -1,0 +1,53 @@
+$-----$
+ENONCE
+$-----$
+Un peintre s'est lancé dans le défi de peindre entièrement un quartier. A son rythme, il estime qu'il lui faut 4h pour peindre une maison individuelle, sachant qu'il travaille consécutivement sans pause. Le quartier contient 80 maisons de taille similaire.
+$-----$
+QUESTION 1
+$-----$
+Combien d'heures lui faudra-t-il en tout pour peindre toutes les maisons du quartier?
+$-----$
+QUESTION 2
+$-----$
+Il travaille 8h par jour, combien de jours lui faudra-t-il pour accomplir son défi, en supposant qu'il peint une maison à la fois ?
+$-----$
+QUESTION 3
+$-----$
+Supposons qu'un ami à lui rejoigne le défi et peint aussi une maison individuelle en 4h, combien de temps leur faudra-t-il en tout pour peindre le quartier ?
+$-----$
+QUESTION 4
+$-----$
+Si la moitié des maisons sont deux fois plus grandes que les autres et nécessitent donc deux fois plus de temps de peinture, combien de temps leur faudra-t-il pour peindre tout le quartier ?
+$-----$
+REPONSE 1
+$-----$
+320
+$-----$
+EXPLICATION 1
+$-----$
+Il faut 4h pour peindre une maison, donc pour peindre les 80 maisons, il lui faudra 320h (4 * 80).
+$-----$
+REPONSE 2
+$-----$
+40
+$-----$
+EXPLICATION 2
+$-----$
+Il travaille 8h par jour, donc le temps total de 320h sera divisé par 8, ce qui lui faudra 40 jours pour terminer le travail.
+$-----$
+REPONSE 3
+$-----$
+160
+$-----$
+EXPLICATION 3
+$-----$
+Avec l'aide de son ami, ils peuvent peindre deux maisons en même temps en 4h. Par conséquent, le total des heures pour colorer le quartier sera divisé par deux, soit 160h.
+$-----$
+REPONSE 4
+$-----$
+480
+$-----$
+EXPLICATION 4
+$-----$
+La moitié des maisons sont deux fois plus grandes, alors elles nécessitent le double du temps de peinture. Donc pour ces maisons, il lui faudrait 4*2*40 = 320h. L'autre moitié reste des maisons de taille standard et demandera 4*40 = 160h. Au total, il lui faudra 320+160 = 480h pour peindre tout le quartier.
+$-----$

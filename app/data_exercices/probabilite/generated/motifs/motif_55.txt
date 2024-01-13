@@ -1,0 +1,7 @@
+L'énoncé et les questions sont assez clairs pour moi, mais je pense qu'il y a des zones d'amélioration. D'abord, la première question semble présumer que la production de vêtements augmente de façon linéaire chaque année, ce qui pourrait ne pas être le cas dans la réalité. Ensuite, le coefficient de proportionnalité entre la production de vêtements et la demande n'est jamais vraiment défini ou expliqué. Cela pourrait dérouter certains élèves.
+
+De plus, pour la deuxième question, on suppose que la production de vêtements en 2018 est fonction de la production en 2017, mais cela pourrait de nouveau porter à confusion. Normalement, une baisse de la demande devrait affecter la production de la même année et pas de l'année suivante.
+
+En ce qui concerne les réponses, elles sont relativement claires et les unités sont cohérentes avec l'énoncé. Les réponses sont des entiers, ce qui est logique dans ce contexte, même si une production de vêtements en nombre réel pourrait être possible dans un esprit mathématique pur, mais moins réaliste dans la pratique. 
+
+Donc, je suggérerais de rendre plus explicite le lien de proportionnalité entre la demande et la production, et peut-être d'ajuster la première question pour éviter l'hypothèse d'un taux de production constant chaque année. À part ça, cet exercice semble très solide et utile pour comprendre les concepts de proportionnalité.

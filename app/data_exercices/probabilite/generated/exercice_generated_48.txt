@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Une chaussée est inclinée de façon à ce que l'altitude (en mètres) augmente de 10 m pour chaque 50 m parcourus en ligne droite (aussi en mètres). L'échelle de cette inclinaison est de 1:5.
+$-----$
+QUESTION 1
+$-----$
+Quelle serait l'altitude atteinte (en mètres) après avoir parcouru 150 m en ligne droite ?
+$-----$
+QUESTION 2
+$-----$
+Combien de mètres faudrait-il parcourir en ligne droite pour atteindre une altitude de 35 m ?
+$-----$
+REPONSE 1
+$-----$
+30
+$-----$
+EXPLICATION 1
+$-----$
+L'altitude augmente de 10 m pour chaque 50 m parcourus, ainsi le ratio est de 10:50 ou 1:5. Par conséquent, après avoir parcouru 150 m (3 fois 50 m), l'altitude augmenterait de 3 fois 10 m, ce qui donne 30 m.
+$-----$
+REPONSE 2
+$-----$
+175
+$-----$
+EXPLICATION 2
+$-----$
+Pour atteindre une altitude de 35 m (3.5 fois 10 m), il faudrait parcourir 3.5 fois 50 m, ce qui donne 175 m. Donc, pour atteindre une altitude de 35 m, il faudrait parcourir 175 m en ligne droite.
+$-----$

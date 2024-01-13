@@ -1,0 +1,31 @@
+
+$-----$
+ENONCE
+$-----$
+Antoine pèse des pommes. Il trouve que 7 pommes pèsent 1,26 kg.
+$-----$
+QUESTION 1
+$-----$
+Combien pèsent 3 pommes ?
+$-----$
+QUESTION 2
+$-----$
+Antoine veut faire une tarte aux pommes qui nécessite 1 kg de pommes. Combien de pommes doit-il utiliser ?
+$-----$
+REPONSE 1
+$-----$
+0.54
+$-----$
+EXPLICATION 1
+$-----$
+Puisque 7 pommes pèsent 1,26 kg, alors 1 pomme pèse 1,26 / 7 = 0,18 kg.
+Par conséquent, 3 pommes pèsent 3 * 0,18 = 0,54 kg.
+$-----$
+REPONSE 2
+$-----$
+6
+$-----$
+EXPLICATION 2
+$-----$
+Puisque 1 pomme pèse 0,18 kg, alors il faut 1 / 0,18 = 5,56 pommes pour faire 1 kg. Comme Antoine ne peut pas utiliser une fraction de pomme, il doit arrondir jusqu'à 6.
+$-----$

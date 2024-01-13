@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+La production de pommes chez les Vergers de Jean est de 900 kilogrammes pour 30 arbres. 
+$-----$
+QUESTION 1
+$-----$
+Combien produira-t-il avec 100 arbres ?
+$-----$
+QUESTION 2
+$-----$
+Combien d'arbres faut-il pour produire 1500 kilogrammes de pommes?
+$-----$
+REPONSE 1
+$-----$
+3000
+$-----$
+EXPLICATION 1
+$-----$
+La production de pommes est proportionnelle au nombre d'arbres.
+Donc si on multiplie par 100/30 = 10/3 le nombre d'arbres, on obtient la même multiplication pour la production, soit 900 x (10/3) = 3000kg de pommes.
+$-----$
+REPONSE 2
+$-----$
+50
+$-----$
+EXPLICATION 2
+$-----$
+De la même manière, si on veut produire 1500kg de pommes, il faut alors 1500 / (900/30) = 50 arbres.
+$-----$

@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+Jacob est en train de préparer des crêpes. La recette indique qu'il faut 500g de farine pour obtenir 20 crêpes. Aujourd'hui, sa famille lui a demandé de préparer 45 crêpes.
+
+$-----$
+QUESTION 1
+$-----$
+Combien de farine Jacob a-t-il besoin pour préparer 45 crêpes ?
+$-----$
+QUESTION 2
+$-----$
+Si Jacob dispose seulement de 700g de farine, combien de crêpes pourra-t-il préparer ?
+$-----$
+REPONSE 1
+$-----$
+1125
+$-----$
+EXPLICATION 1
+$-----$
+Il faut 500g de farine pour préparer 20 crêpes, ce qui donne 500 / 20 = 25g de farine par crêpe. Par conséquent, pour préparer 45 crêpes, Jacob a besoin de 25 * 45 = 1125g de farine.
+$-----$
+REPONSE 2
+$-----$
+28
+$-----$
+EXPLICATION 2
+$-----$
+En utilisant le même raisonnement, on a 25g de farine pour faire 1 crêpe, donc avec 700g, Jacob peut préparer 700 / 25 = 28 crêpes.
+$-----$

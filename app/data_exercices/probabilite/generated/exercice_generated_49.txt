@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Oliver prévoit de faire un voyage de 1200 km en voiture. Il estime qu'il pourra maintenir une vitesse moyenne de 100 km/h tout au long du voyage, sans pauses ni interruptions.
+$-----$
+QUESTION 1
+$-----$
+Combien de temps durera le voyage d'Oliver s'il parvient à maintenir cette vitesse moyenne sans faire de pauses ?
+$-----$
+QUESTION 2
+$-----$
+Si Oliver décide d'augmenter immédiatement sa vitesse moyenne à 120 km/h, sans conséquence sur le temps total du voyage, combien de temps gagnera-t-il sur son voyage ?
+$-----$
+REPONSE 1
+$-----$
+12
+$-----$
+EXPLICATION 1
+$-----$
+La durée du voyage d'Oliver, calculée sans tenir compte des pauses, est obtenue en divisant la distance totale (1200 km) par sa vitesse moyenne (100 km/h). On obtient donc 1200/100 = 12 heures. 
+$-----$
+REPONSE 2
+$-----$
+2
+$-----$
+EXPLICATION 2
+$-----$
+Si Oliver augmente sa vitesse moyenne à 120 km/h et que ce changement n'a aucune conséquence sur le temps total du voyage (c'est-à-dire qu'il n'y a pas de temps perdu dans ce changement de vitesse), le temps de voyage sera alors de 1200/120 = 10 heures. Il gagnera donc 12 - 10 = 2 heures par rapport à son temps de voyage initial. 
+$-----$

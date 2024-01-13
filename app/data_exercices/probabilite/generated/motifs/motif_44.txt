@@ -1,0 +1,7 @@
+Je comprends l'énoncé et les questions, elles semblent claires pour moi. Les calculs fournis semblent corrects et je ne vois aucune autre réponse possible.
+
+Cependant, il y a certainement place à amélioration. Par exemple, la notion d'arrondi dans la deuxième question pourrait être expliquée plus clairement. L'ENSEIGNANT pourrait mentionner que dans la pratique on ne peut pas utiliser de fraction de pomme, donc on doit arrondir le nombre de pommes nécessaire pour faire un kilo. Sinon, on pourrait penser qu'on peut utiliser exactement 5,56 pommes, ce qui est assez étrange.
+
+De plus, l'unité utilisée pour le poids des pommes pourrait être source de confusion : le passage de kilogrammes à grammes n'est pas explicité. Pour un élève de 4ème année, il serait plus pertinent d'exprimer le poids des pommes en grammes pour éviter toute confusion.
+
+Enfin, même si chaque question semble demander une réponse unique, l'exercice pourrait encourager une réflexion plus globale. Par exemple, quelle serait la meilleure stratégie si Antoine doit faire plusieurs tartes ? Cela pourrait motiver les élèves à comprendre l'importance de la planification et des mathématiques dans la vie quotidienne.

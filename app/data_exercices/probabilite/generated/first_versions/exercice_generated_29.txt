@@ -1,0 +1,32 @@
+
+$-----$
+ENONCE
+$-----$
+Sarah a besoin de faire un album photo pour son voyage. Elle a pris 400 photos avec son appareil photo et elle peut imprimer 50 photos pour 5,50€.
+$-----$
+QUESTION 1
+$-----$
+Combien d'euros Sarah va-t-elle dépenser pour imprimer toutes ses photos ?
+$-----$
+QUESTION 2
+$-----$
+Sarah a réussi à économiser 20€ pour imprimer ses photos. Combien de photos va-t-elle pouvoir imprimer ?
+$-----$
+REPONSE 1
+$-----$
+44
+$-----$
+EXPLICATION 1
+$-----$
+Si 50 photos coûtent 5,50€, alors le coût pour imprimer une photo est de 5,50/50 = 0,11€.
+Ce qui signifie que pour imprimer 400 photos, Sarah devra dépenser 0,11 * 400 = 44€.
+$-----$
+REPONSE 2
+$-----$
+363.63
+$-----$
+EXPLICATION 2
+$-----$
+Si 50 photos coûtent 5,50€, alors pour 20€, Sarah peut imprimer 20/5,50 * 50 = 363,63 photos. 
+Sarah va pouvoir imprimer environ 364 photos.
+$-----$

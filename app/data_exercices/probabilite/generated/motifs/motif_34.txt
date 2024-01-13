@@ -1,0 +1,9 @@
+Pour commencer, je trouve cet exercice assez simple à comprendre. Les problèmes de la vie réelle comme celui-ci sont enrichissants car ils rendent les mathématiques plus pratiques et réalistes. Cependant, j'ai quelques remarques. 
+
+Pour la première question, je suis d'accord avec la réponse, c'est évident que si Pierre fait 4 séries de 20 pompes il a fait un total de 80 pompes.
+
+Pour la deuxième question, je suis aussi d'accord avec la réponse. Cela dit, la formulation pourrait prêter à confusion. En disant "Combien de minutes s'écoulera avec les repos ?", cela suggère le temps total incluant le temps passé à faire les pompes. Il serait plus explicite de mentionner clairement s'il s'agit uniquement du temps total de pause. 
+
+Je tiens également à noter que l'une des limites de cet exercice est la nature des questions qui ont des réponses évidentes, et ne requièrent pas vraiment de compétences mathématiques. Il pourrait être bénéfique d'inclure des questions qui encouragent l'élève à penser plus profondément, par exemple, ajouter une question demandant combien de temps prend une séance de gym si chaque série de pompes prend 2 minutes.
+
+Pour finir, les réponses sont clairement des nombres entiers. Il pourrait être intéressant de combiner les problèmes d'addition et de multiplication avec des problèmes de division pour introduire les nombres décimaux. Par exemple, demander le temps moyen passé pour une pompe ou le nombre moyen de pompes par minute.

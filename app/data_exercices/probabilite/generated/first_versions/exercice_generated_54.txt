@@ -1,0 +1,18 @@
+
+$-----$
+ENONCE
+$-----$
+Pour peindre une barrière, vous avez besoin de 3 litres de peinture. Si chaque litre de peinture couvre 10 mètres carrés, combien de peinture avez-vous besoin pour peindre une clôture de 50 mètres carrés?
+$-----$
+QUESTION 1
+$-----$
+Combien de litres de peinture faut-il pour peindre une clôture de 50 mètres carrés?
+$-----$
+REPONSE 1
+$-----$
+5
+$-----$
+EXPLICATION 1
+$-----$
+Si 1 litre de peinture couvre 10 mètres carrés, alors pour peindre 50 mètres carrés de clôture, vous aurez besoin de 50 / 10 = 5 litres de peinture.
+$-----$

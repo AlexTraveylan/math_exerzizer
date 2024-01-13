@@ -1,0 +1,42 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une ferme, pour 5 poules on a 15 œufs récoltés chaque jour.
+$-----$
+QUESTION 1
+$-----$
+Combien d'œufs récolte-t-on en un jour avec 12 poules ?
+$-----$
+QUESTION 2
+$-----$
+Combien de poules sont nécessaires pour récolter 30 œufs par jour ?
+$-----$
+QUESTION 3
+$-----$
+Combien d'œufs récolte-t-on en une semaine avec 20 poules ?
+$-----$
+REPONSE 1
+$-----$
+36
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énnoncé la quantité d'œufs récoltée est proportionnelle au nombre de poules, donc 15/5 = œufs/12, soit une quantité d'œufs par jour de 36 pour 12 poules.
+$-----$
+REPONSE 2
+$-----$
+10
+$-----$
+EXPLICATION 2
+$-----$
+D'après l'énnoncé le nombre de poules est proportionnel à la quantité d'œufs récoltée, donc 5/15 = poules/30, soit un nombre de 10 poules pour obtenir 30 œufs par jour.
+$-----$
+REPONSE 3
+$-----$
+420
+$-----$
+EXPLICATION 3
+$-----$
+D'après l'énnoncé la quantité d'œufs récoltée est proportionnelle au nombre de poules, donc 15/5 = œufs/20, soit une quantité d'œufs par jour de 60 pour 20 poules. Sur une semaine (7 jours), cela donne 7*60 = 420 œufs.
+$-----$

@@ -1,0 +1,34 @@
+$-----$
+ENONCE
+$-----$
+Un pays produit des vêtements et exporte dans différents autres pays. La production de vêtements de ce pays est généralement proportionnelle à la demande des pays importateurs dans le même année. Voici les statistiques de production de vêtements pour certaines années :
+
+- En 2015, la production de vêtements était de 75 000 unités.
+- En 2017, la production de vêtements était de 105 000 unités.
+
+On suppose ici que la demande dans le pays importateur est restée la même pendant l'année 2016.
+$-----$
+QUESTION 1
+$-----$
+Quelle a probablement été la production de vêtements dans ce pays en 2016, en supposant que le coefficient de proportionnalité soit resté le même ?
+$-----$
+QUESTION 2
+$-----$
+Si la demande dans les autres pays diminue de 15% en 2018 par rapport à celle de 2017, quel sera probablement la production de vêtements de ce pays pour l'année 2018 ?
+$-----$
+REPONSE 1
+$-----$
+90000
+$-----$
+EXPLICATION 1
+$-----$
+Comme la demande est supposée avoir été la même en 2016, la production de vêtements dans ce pays aurait probablement été la moyenne de celle en 2015 et 2017. Donc, (75000 + 105000) / 2 = 90000 unités.
+$-----$
+REPONSE 2
+$-----$
+89250
+$-----$
+EXPLICATION 2
+$-----$
+Si la demande diminue de 15% en 2018, alors la production diminue aussi de 15% par rapport à l'année précédente (2017). Donc, la production de vêtements en 2018 pourrait être (1 - 0,15) * 105000 = 89250 unités.
+$-----$

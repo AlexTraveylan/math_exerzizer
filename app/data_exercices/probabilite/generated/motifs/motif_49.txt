@@ -1,0 +1,11 @@
+Je trouve l'énoncé et les questions de l'exercice assez claires. Cependant, je pense qu'il y a quelques problèmes à noter.
+
+D'abord, il est vrai que théoriquement, si l'on maintient une vitesse constante, on peut calculer le temps que durera le voyage. Mais dans la pratique, cela ne se passe jamais de cette façon. Il y a des pauses, des embouteillages, des variations de vitesse limites, etc. Donc, cette question n'est pas très réaliste.
+
+Ensuite, la deuxième question semble supposer que le changement de vitesse est immédiat et sans conséquence sur le temps total du voyage. C'est une supposition très simpliste. On pourrait avoir une question plus complexe qui tient compte de ces facteurs.
+
+Enfin, les réponses et les explications ne mentionnent pas les unités. Je sais qu'il est courant de les omettre pour simplifier, mais ce n'est pas une bonne habitude, surtout si on travaille avec des unités différentes ou si on doit convertir des unités en cours de route.
+
+Puis en termes de réponse, je ne vois pas d'autres réponses possibles qui pourraient créer une confusion. Chaque question demande en effet une seule réponse qui est un nombre entier. 
+
+Pour améliorer cet exercice, je pense qu'il serait bénéfique d'introduire un peu plus de réalisme et de précision. Par exemple, pour la première question, on pourrait demander "Combien de temps durera le voyage d'Oliver s'il maintient cette vitesse moyenne et sans faire de pauses ?". Pour la deuxième question, on pourrait demander "Combien de temps gagnera-t-il sur son voyage en supposant qu'il peut augmenter sa vitesse immédiatement et sans conséquence ?". Et surtout, il serait important d'inclure les unités dans les réponses et les explications.

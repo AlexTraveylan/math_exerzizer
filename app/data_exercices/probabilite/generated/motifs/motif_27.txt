@@ -1,0 +1,9 @@
+Oui, je comprends bien l'énoncé et les questions, elles sont assez claires et directes. Cependant, j'aimerais faire quelques critiques constructives à ces questions.
+
+Les réponses sont correctes, mais je pense qu'une légère confusion pourrait exister sur les unités pour certains élèves. En effet, les réponses sont données en litres et en kilomètres, mais les questions ne précisent pas explicitement les unités attendues. Il serait peut-être utile de préciser après chaque question «... en litres» ou «... en kilomètres» pour éviter toute confusion.
+
+De plus, pour la deuxième question, la réponse en décimales poussée jusqu'à deux chiffres après la virgule peut prêter à confusion. En pratique, on ne peut pas vraiment parler de parcourir 55.55 km avec un scooter. Ce serait plus réaliste, à mon avis, de donner la réponse à l'unité près, soit 56 km, en expliquant que nous arrondissons à l'unité la plus proche lorsque l'on parle de distance parcourue.
+
+Enfin, bien que chaque question demande une unique réponse, elles sont liées et reposent sur la même règle de proportionnalité. J'aurais aimé voir des questions plus variées qui pourraient tester différentes compétences, ou peut-être une question de réflexion ouverte pour développer le raisonnement.
+
+Pour résumer, l'exercice est bien dans l'ensemble, mais quelques retouches pourraient le rendre encore meilleur. Par exemple, préciser les unités attendues, donner des réponses plus réalistes, et introduire plus de variété dans les questions.

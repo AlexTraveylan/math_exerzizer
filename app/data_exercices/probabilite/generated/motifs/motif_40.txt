@@ -1,0 +1,9 @@
+L'énoncé et les questions sont claires, elles exploitent les notions de calcul direct et inverse. Je comprends également bien les réponses fournies, elles sont en ligne avec l'énoncé. Cependant, je vois quelques problèmes qui pourraient être améliorés par le professeur pour rendre l'exercice plus efficace.
+
+Tout d'abord, la dernière réponse est en décimales, alors qu'il s'agit de comptabiliser des tablettes, devrait être un nombre entier. Un arrondi à l’unité supérieure (ici 2572) est plus logique car l’entreprise ne peut pas vendre une fraction de tablette.
+
+Ensuite, le professeur pourrait être plus explicite sur ce qu'il attend comme réponses pour la troisième question. Par exemple, il pourrait préciser "combien de tablettes doit-elle vendre au minimum ?"
+
+En outre, pour la question 3, le montant des bénéfices souhaités (180 000€) me semble assez élevé par rapport au bénéfice unitaire par tablette (70€). Cela pourrait amener l'élève à des calculs de grande taille qui ne sont peut-être pas appropriés pour un exercice de niveau de 4ème.
+
+Enfin, les questions me semblent bien former un ensemble cohérent, elles se suivent logiquement et ne peuvent être confondues entre elles. Chaque question demande une réponse unique et il n'y a pas de confusion possible sur les unités puisqu'elles sont clairement indiquées.

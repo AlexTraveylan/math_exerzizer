@@ -1,0 +1,32 @@
+$-----$
+ENONCE
+$-----$
+Sarah a décidé de vendre des T-shirts pour sa campagne de nettoyage de l'environnement dans sa ville. Elle les vend à 15 € pièce. En moyenne, Sarah réussit à vendre 25 T-shirts par jour pendant les 6 jours de la semaine où elle travaille. Cependant, chaque T-shirt lui coûte 4 € à produire.
+$-----$
+QUESTION 1
+$-----$
+Combien Sarah gagne-t-elle en net chaque jour ?
+$-----$
+QUESTION 2
+$-----$
+Combien Sarah gagne-t-elle en net en un mois (4 semaines) ?
+$-----$
+REPONSE 1
+$-----$
+275
+$-----$
+EXPLICATION 1
+$-----$
+Chaque jour, Sarah gagne 15 € * 25 = 375 € en vendant ses T-shirts.
+Cependant, elle doit également payer 4 € * 25 = 100 € pour la production des T-shirts.
+Donc, chaque jour, Sarah gagne en net 375 € - 100 € = 275 €.
+$-----$
+REPONSE 2
+$-----$
+6600
+$-----$
+EXPLICATION 2
+$-----$
+Chaque semaine, Sarah gagne en net 275 € * 6 = 1650 €.
+Donc, en un mois (4 semaines), Sarah gagne en net 1650 € * 4 = 6600 €.
+$-----$

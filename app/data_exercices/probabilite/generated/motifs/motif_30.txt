@@ -1,0 +1,13 @@
+Dans l’ensemble, l’énoncé et les questions me semblent clairs. Ils décrivent bien une situation concrète – à savoir un travail de peinture à effectuer dans certaines conditions – et ils posent des questions quantitatives précises à propos de celle-ci. De ce que je vois, il n’y a qu’un seul moyen d'interpréter chaque question et chaque réponse possible.
+
+Je suis d'accord avec les réponses à toutes les questions, de point de vue de l'arithmétique.
+
+Cependant, en considérant les limitations réalistes du sujet, il peut avoir une certaine confusion. Par exemple,  la dernière réponse, on suppose qu'un peintre peut travailler sans aucun pause pour toute la journée. Dans la réalité, un peintre ne pourra pas travailler pendant toute la durée de ces 8 heures, il lui faut une pause pour déjeuner et, probablement, des pauses supplémentaires pour se reposer.
+
+De plus, il n'est pas spécifié si le peintre travaille lors de jours consécutifs, ce qui pourrait influer sur le résultat. Si le peintre travaille de manière consécutive, la fatigue peut diminuer la productivité et les réponses pourraient changer.
+
+Concernant l’unité, elle est clairement indiquée dans chaque question, il n’y a donc pas d'ambiguïté.
+
+Et enfin, toutes les réponses ne sont pas des entiers. La deuxième réponse pourrait être un décimal si elle était exprimée en terme de jour (1,5 jour), mais elle a été convertie en heures pour être un entier. Donc, c'est une bonne initiative de ramener les résultats en entier. Pour rester cohérent avec cela les solutions devraient être en entier pour toutes les questions. 
+
+Dans l'ensemble, je pense que cet exercice pourrait être amélioré en précisant davantage les conditions de travail des peintres et en indiquant de manière explicite que nous cherchons des réponses en nombres entiers.

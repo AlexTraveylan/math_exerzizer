@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Manon emménage dans un nouvel appartement et a besoin de peindre les murs. Pour cela, elle décide d'acheter des pots de peinture qui suffisent pour peindre 6 mètres carrés de murs et coûtent 30 euros chacun. Son appartement a une surface totale de mur de 19 mètres carrés.
+$-----$
+QUESTION 1
+$-----$
+Combien de pots de peinture Manon doit-elle acheter ?
+$-----$
+QUESTION 2
+$-----$
+Combien coûtera l'ensemble des pots de peinture dont a besoin Manon ?
+$-----$
+QUESTION 3
+$-----$
+Si Manon avait un budget de 85 euros pour la peinture, combien de m² pourrait-elle peindre ?
+$-----$
+REPONSE 1
+$-----$
+4
+$-----$
+EXPLICATION 1
+$-----$
+La quantité de peinture nécessaire est proportionnelle à la superficie à peindre. Comme un pot de peinture suffit pour peindre 6 mètres carrés, pour peindre 19 mètres carrés, Manon doit acheter 19/6 = 3.16 pots. Cependant, on ne vend pas des fractions de pot. Donc, Manon doit acheter 4 pots de peinture.
+$-----$
+REPONSE 2
+$-----$
+120
+$-----$
+EXPLICATION 2
+$-----$
+Le coût total des pots de peinture est proportionnel à la quantité de peinture. Comme un pot de peinture coûte 30 euros, Manon doit donc dépenser 30*4 = 120 euros pour acheter les 4 pots de peinture.
+$-----$
+REPONSE 3
+$-----$
+17
+$-----$
+EXPLICATION 3
+$-----$
+Avec un budget de 85 euros, Manon peut acheter 85/30 = 2.83 pots de peinture, qu'on arrondi à 2 pots. Chaque pot de peinture lui permet de peindre 6 mètres carrés. Elle pourra donc peindre 2*6 = 12 mètres carrés de mur.
+$-----$

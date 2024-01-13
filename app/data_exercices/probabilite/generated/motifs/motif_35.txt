@@ -1,0 +1,11 @@
+Je trouve que l'énoncé et les questions sont bien exposés et suffisamment clairs. L'utilisation de la proportionnalité rend cet exercice facile à comprendre. Cependant, j'ai quelques points que je souhaite évoquer.
+
+Tout d'abord, concernant les réponses, je suis d'accord sur le fait que les résultats sont corrects. Par contre, les explications pourraient être plus détaillées en termes de comment utiliser une règle de trois pour trouver les résultats.
+
+Deuxièmement, je note une absence majeure dans cet exercice, c'est l'exploration d'autres scénarios possibles. Par exemple, que se passerait-il si le nombre d'œufs récoltés n'était plus constant ? Ou si la relation entre le nombre de poules et le nombre d'œufs n'était plus strictement proportionnelle ? Cela rendrait l'exercice un peu plus complexe et permettrait de tester la compréhension des élèves en matière de proportionnalité.
+
+Ensuite, il serait intéressant d'ajouter une question concernant les unités. On pourrait par exemple demander combien d'œufs on peut récolter en un mois ou en une année.
+
+Enfin, pour ce qui est des questions demandant une unique réponse, j'ai l'impression que la question 2 pourrait prêter à confusion. En effet, si nous suivons la logique de l'énoncé, nous pourrions penser qu'il est possible d'avoir une demi-poule si nous avons besoin de 15 œufs. Il serait peut-être utile de préciser que le nombre de poules doit être un nombre entier.
+
+Dans l'ensemble, ça reste un bon exercice pour la compréhension de la proportionnalité, mais un peu plus d'élaboration ou des scénarios plus complexes pourraient le rendre plus stimulant.

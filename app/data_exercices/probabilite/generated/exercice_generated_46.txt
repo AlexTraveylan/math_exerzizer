@@ -1,0 +1,53 @@
+$-----$
+ENONCE
+$-----$
+Caroline est en vacances au Royaume-Uni où la monnaie est la Livre (£). À la fin de son séjour, elle doit changer le reste de son argent, 25 £, en euros (€), la monnaie de son pays. Sa banque lui propose un taux de change de 1,20 € pour 1 £.
+$-----$
+QUESTION 1
+$-----$
+Combien d'euros obtiendra-t-elle exactement pour ses 25 £ ?
+$-----$
+QUESTION 2
+$-----$
+Quelle somme arrondie à l'euro près obtiendra-t-elle pour ses 25 £ ?
+$-----$
+QUESTION 3
+$-----$
+Quelle somme précise en livres sterling doit-elle échanger si elle souhaite obtenir exactement 60 € ?
+$-----$
+QUESTION 4
+$-----$
+Quelle somme arrondie à la livre près doit-elle échanger si elle souhaite obtenir approximativement 60 € ?
+$-----$
+REPONSE 1
+$-----$
+30
+$-----$
+EXPLICATION 1
+$-----$
+L'échange est proportionnel, donc pour 25 £, Caroline obtiendra exactement 25 * 1,20 = 30 €.
+$-----$
+REPONSE 2
+$-----$
+30
+$-----$
+EXPLICATION 2
+$-----$
+Même si le taux de change peut parfois donner des décimales, dans ce cas précis le calcul tombe juste. Caroline obtiendra donc 30 € arrondis à l'euro près.
+$-----$
+REPONSE 3
+$-----$
+50
+$-----$
+EXPLICATION 3
+$-----$
+L'échange est proportionnel, donc pour obtenir précisément 60 €, Caroline doit échanger 60 / 1,20 = 50 £.
+$-----$
+REPONSE 4
+$-----$
+50
+$-----$
+EXPLICATION 4
+$-----$
+Comme le taux de change n'a pas engendré de décimale, l'échange de 50 £ donnera un résultat approximatif et arrondi à 60 €.
+$-----$

@@ -1,0 +1,18 @@
+$-----$
+ENONCE
+$-----$
+En salle de sport, 5 séries de 12 pompes sont effectuées par chaque personne présente. Un jour, le nombre total de pompes effectuées est de 1800.
+$-----$
+QUESTION 1
+$-----$
+Combien de personnes étaient présentes en salle de sport ce jour-là ?
+$-----$
+REPONSE 1
+$-----$
+30
+$-----$
+EXPLICATION 1
+$-----$
+Chaque personne fait 5 séries de 12 pompes, soit un total de 5 x 12 = 60 pompes.
+Si le nombre total de pompes effectuées est de 1800 alors, 1800 / 60 = 30 personnes étaient présentes en salle de sport ce jour-là.
+$-----$

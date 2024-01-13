@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Dans un magasin d'électroménager, le nombre de téléviseurs vendus est propotionnel au prix de vente. Lorsque le prix de vente est de 300 €, le nombre de téléviseurs vendus est de 60. 
+$-----$
+QUESTION 1
+$-----$
+Combien de téléviseurs seront vendus si le prix de vente est de 250 € ?
+$-----$
+QUESTION 2
+$-----$
+A quel prix le magasin doit-il vendre un téléviseur pour vendre 100 unités ?
+$-----$
+REPONSE 1
+$-----$
+72
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, le nombre de téléviseurs vendus est propotionnel au prix de vente. Ainsi, nous pouvons établir l'équation suivante : 60/300= x/250 où x est le nombre de téléviseurs vendus pour un prix de 250 €. En résolvant cette équation, on obtient x = 72.
+$-----$
+REPONSE 2
+$-----$
+200
+$-----$
+EXPLICATION 2
+$-----$
+D'après l'énoncé, le nombre de téléviseurs vendus est propotionnel au prix de vente. Nous pouvons donc établir l'équation suivante : 60/300 = 100/x où x est le prix de vente pour vendre 100 téléviseurs. En résolvant cette équation, on obtient x = 200. Le magasin doit donc vendre chaque téléviseur à 200 € pour vendre 100 unités.
+$-----$

@@ -1,0 +1,54 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une ferme, pour 5 poules on a 15 œufs récoltés chaque jour. On considère ici que le nombre d'œufs récoltés est toujours proportionnel au nombre de poules.
+$-----$
+QUESTION 1
+$-----$
+Combien d'œufs récolte-t-on en un jour avec 12 poules ?
+$-----$
+QUESTION 2
+$-----$
+Combien de poules sont nécessaires pour récolter 30 œufs par jour ? (On ne peut que posséder un nombre entier de poules)
+$-----$
+QUESTION 3
+$-----$
+Combien d'œufs récolte-t-on en une semaine avec 20 poules ?
+$-----$
+QUESTION 4
+$-----$
+Si on quadruple le nombre de poules, par combien multiplie-t-on le nombre d'œufs récoltés ?
+$-----$
+REPONSE 1
+$-----$
+36
+$-----$
+EXPLICATION 1
+$-----$
+Pour résoudre ce problème, on utilise une règle de trois : si 5 poules pondent 15 œufs alors 12 poules pondront x œufs. On résout l'équation 5/15 = 12/x qui donne x = 36.
+$-----$
+REPONSE 2
+$-----$
+10
+$-----$
+EXPLICATION 2
+$-----$
+On utilise encore la règle de trois, mais inversée : si 15 œufs sont pondus par 5 poules alors 30 œufs seront pondus par y poules. On résout l'équation 5/15 = y/30 qui donne y = 10.
+$-----$
+REPONSE 3
+$-----$
+420
+$-----$
+EXPLICATION 3
+$-----$
+On calcule d'abord le nombre d'œufs pondus par jour par 20 poules, comme dans la question 1. On trouve 20/5 * 15 = 60 œufs. Pour une semaine de 7 jours, cela donne 60 * 7 = 420 œufs.
+$-----$
+REPONSE 4
+$-----$
+4
+$-----$
+EXPLICATION 4
+$-----$
+La relation entre le nombre de poules et le nombre d'œufs est une proportionnalité simple. Si on quadruple le nombre de poules, on quadruple le nombre d'œufs.
+$-----$

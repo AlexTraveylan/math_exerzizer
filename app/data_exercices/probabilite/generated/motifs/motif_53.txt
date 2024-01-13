@@ -1,0 +1,7 @@
+Il me semble que l'énoncé et les questions sont relativement clairs. Seulement, je trouve que cela pourrait être plus spécifiquement formulé. Par exemple, dans la première question, il serait plus clair de demander : "Combien d'heures lui faudra-t-il en tout pour peindre toutes les maisons du quartier?" Pour éviter toute confusion, les questions pourraient préciser que l'on assume qu'il peint une maison à la fois et qu'il n'y a pas de pause entre les maisons.
+
+Concernant les réponses, elles sont correctes et faciles à comprendre : on multiplie le temps requis pour peindre une maison par le nombre de maisons pour obtenir le total en heures, puis on divise par le nombre d'heures par jour pour obtenir le total en jours.
+
+Cependant, je trouve que l'exercice se focalise beaucoup sur l'arithmétique et néglige d'autres aspects importants des mathématiques, comme la lecture des données et la résolution de problèmes. On pourrait par exemple ajouter des questions supplémentaires pour rendre l'exercice plus intéressant, comme "S'il se met à peindre avec un ami qui peint à la même vitesse, combien de temps leur faudrait-il?" ou "Si la moitié des maisons sont deux fois plus grandes et nécessitent deux fois plus de temps, combien de temps faut-il pour tout peindre?". 
+
+Les réponses sont uniquement des nombres entiers, ce qui est approprié car on ne peut pas peindre une fraction d'une maison ou travailler une fraction d'un jour. De plus, il n'y a pas de confusion sur les unités car elles sont clairement indiquées.

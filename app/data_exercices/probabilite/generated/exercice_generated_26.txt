@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Un canard nage dans une rivière à une vitesse de 2km/h. Il est aidé par le courant de la rivière qui va dans le même sens que lui à une vitesse de 0,5 km/h.
+$-----$
+QUESTION 1
+$-----$
+Si le canard continue à nager pendant 4 heures, quelle distance aura-t-il parcourue ?
+$-----$
+QUESTION 2
+$-----$
+Si le canard voulait parcourir 10 km, combien de temps devrait-il nager dans la rivière ?
+$-----$
+REPONSE 1
+$-----$
+10
+$-----$
+EXPLICATION 1
+$-----$
+La distance que le canard parcourt dans la rivière au bout de 4 heures est égale à la somme des vitesses du canard et du courant, multiplié par le temps. Ainsi, nous avons: (2km/h + 0,5km/h) * 4 heures = 10 km.
+$-----$
+REPONSE 2
+$-----$
+2
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour que le canard parcoure 10 km est égal à la distance souhaitée divisée par la somme des vitesses du canard et du courant. Cela donne donc : 10 km / (2km/h + 0,5km/h) = 2 heures.
+$-----$

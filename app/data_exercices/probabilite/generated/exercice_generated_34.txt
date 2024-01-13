@@ -1,0 +1,54 @@
+
+$-----$
+ENONCE
+$-----$
+Pierre est à la gym et il fait 4 séries de 20 pompes avec 5 minutes de repos entre chaque série. Chaque série de pompes lui prend 2 minutes.
+$-----$
+QUESTION 1
+$-----$
+Combien de pompes Pierre fera-t-il en tout ?
+$-----$
+QUESTION 2
+$-----$
+Combien de minutes totalise le temps de repos ?
+$-----$
+QUESTION 3
+$-----$
+Combien de temps en minutes dure, au total, la séance de Pierre à la salle de gym ?
+$-----$
+QUESTION 4
+$-----$
+Combien de pompes Pierre fait-il en moyenne par minute durant sa séance ?
+$-----$
+REPONSE 1
+$-----$
+80
+$-----$
+EXPLICATION 1
+$-----$
+Pour trouver le nombre de pompes que Pierre fera en tout, nous multiplions le nombre de séries par le nombre de pompes dans chaque série. Donc, 4 séries * 20 pompes par série = 80 pompes.
+$-----$
+REPONSE 2
+$-----$
+15
+$-----$
+EXPLICATION 2
+$-----$
+Pierre prend une pause après chaque série, sauf la dernière, donc il y aura 3 pauses de 5 minutes chacune. Donc, 3 pauses * 5 minutes = 15 minutes.
+$-----$
+REPONSE 3
+$-----$
+23
+$-----$
+EXPLICATION 3
+$-----$
+Pour trouver le temps total de la séance de gym de Pierre, on ajoute le temps total des pauses et le temps total passé à faire des pompes. Le temps total passé à faire des pompes est de 4 séries * 2 minutes par série = 8 minutes. Donc, le temps total de la séance est 8 minutes de pompes + 15 minutes de repos = 23 minutes.
+$-----$
+REPONSE 4
+$-----$
+3.48
+$-----$
+EXPLICATION 4
+$-----$
+Pour trouver le nombre moyen de pompes que Pierre fait par minute, on divise le nombre total de pompes par le temps total de la séance. Donc, 80 pompes / 23 minutes = environ 3,48 pompes par minute.
+$-----$

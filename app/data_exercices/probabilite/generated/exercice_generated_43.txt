@@ -1,0 +1,53 @@
+$-----$
+ENONCE
+$-----$
+Le jardin de Jean-Luc est de forme rectangulaire. Pour le délimiter, il a planté 4 piquets délimitant les coins du jardin. Puis, il a décidé d'ajouter des piquets supplémentaires tous les 2 mètres, entre les coins, le long de chaque côté du jardin. Par conséquent, les piquets des coins sont comptés une seule fois. Si le jardin mesure 8 mètres de largeur et 10 mètres de longueur, combien de piquets a-t-il utilisé au total ?
+$-----$
+QUESTION 1
+$-----$
+Combien de piquets a-t-il planté sur la longueur (hors piquets des coins) ? 
+$-----$
+QUESTION 2
+$-----$
+Combien de piquets a-t-il planté sur la largeur (hors piquets des coins) ? 
+$-----$
+QUESTION 3
+$-----$
+Combien de piquets a-t-il utilisé au total en prenant en compte les piquets situés aux coins du jardin?
+$-----$
+QUESTION 4
+$-----$
+Pourquoi a-t-il décidé de planter des piquets tous les 2 mètres ?
+$-----$
+REPONSE 1
+$-----$
+4
+$-----$
+EXPLICATION 1
+$-----$
+Jean-Luc a planté un piquet tous les 2 mètres sur une longueur de 10 mètres. Les piquets situés aux coins sont déjà comptés, donc il a planté 10/2 - 2 = 4 piquets supplémentaires le long de la longueur.
+$-----$
+REPONSE 2
+$-----$
+3
+$-----$
+EXPLICATION 2
+$-----$
+De même, sur la largeur de 8 mètres, Jean-Luc a planté 8/2 - 2 = 3 piquets supplémentaires le long de la largeur.
+$-----$
+REPONSE 3
+$-----$
+11
+$-----$
+EXPLICATION 3
+$-----$
+En additionnant les 4 piquets initiaux (situés aux coins du jardin), on obtient 4 (piquets supplémentaires en longueur) + 3 (piquets supplémentaires en largeur) + 4 (piquets initiaux aux coins) = 11 piquets au total.
+$-----$
+REPONSE 4
+$-----$
+À interpréter
+$-----$
+EXPLICATION 4
+$-----$
+Il y a plusieurs raisons pour lesquelles Jean-Luc pourrait avoir décidé de planter des piquets supplémentaires tous les 2 mètres. Par exemple, cela pourrait être pour attacher une clôture, créer une structure pour des plantes grimpantes ou simplement pour créer une démarcation visuelle plus claire de la limite du jardin. La raison exacte de ce choix dépend de Jean-Luc lui-même et des exigences spécifiques de son jardin.
+$-----$

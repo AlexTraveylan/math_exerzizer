@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Imaginez que vous êtes en voyage avec une voiture de location. La voiture consomme 6,3 litres d'essence pour faire un trajet de 90 km. Cependant, la station d'essence la plus proche est à 110 km sur votre itinéraire. De plus, pour compliquer les choses, vous remarquez que le réservoir de votre voiture ne contient que 7 litres d'essence.
+$-----$
+QUESTION 1
+$-----$
+Combien de litres d'essence consommera la voiture pour atteindre la station d'essence située à 110 km de vous ?
+$-----$
+QUESTION 2
+$-----$
+Aurez-vous assez d'essence pour atteindre la station d'essence ? Expliquez pourquoi ou pourquoi pas.
+$-----$
+REPONSE 1
+$-----$
+7.7
+$-----$
+EXPLICATION 1
+$-----$
+La consommation de carburant de la voiture est proportionnelle à la distance parcourue. Cette proportionnalité peut être exprimée comme suit : 6,3/90 = C/110, où C est la consommation de carburant pour 110 km. En résolvant cette équation pour C, nous obtenons C = (6,3 x 110) / 90 = 7,7 litres. Ainsi, la voiture consommerait 7,7 litres pour un trajet de 110 km.
+$-----$
+REPONSE 2
+$-----$
+Non
+$-----$
+EXPLICATION 2
+$-----$
+La voiture a actuellement 7 litres d'essence dans le réservoir. Puisque notre calcul précédent a montré que la voiture aurait besoin de 7,7 litres pour atteindre la station d'essence, nous voyons que la voiture n'a pas assez d'essence pour y arriver. Elle manquerait d'essence 0,7 litre avant d'arriver à la station.
+$-----$

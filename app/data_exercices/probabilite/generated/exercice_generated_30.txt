@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Une entreprise de peinture décore une pièce de 30 m² en 5 heures. Chaque peintre travaille 7 heures par jour avec les pauses nécessaires.
+$-----$
+QUESTION 1
+$-----$
+Combien de mètres carrés peut peindre un peintre en une journée ?
+$-----$
+QUESTION 2
+$-----$
+Si une pièce a une superficie de 90 m², combien de jours un peintre mettra-t-il pour la peindre entièrement ?
+$-----$
+QUESTION 3
+$-----$
+Si l’entreprise doit peindre une maison de 480 m² avant le week-end et qu’aujourd’hui c’est lundi, combien de peintres l’entreprise devrait-elle embaucher pour terminer à temps ?
+$-----$
+REPONSE 1
+$-----$
+42
+$-----$
+EXPLICATION 1
+$-----$
+Le taux de travail du peintre est de 30 m² en 5 heures, donc en 7 heures (une journée de travail, pauses comprises), il peut peindre 42 m².
+$-----$
+REPONSE 2
+$-----$
+3
+$-----$
+EXPLICATION 2
+$-----$
+Si un peintre peut peindre 42 m² en une journée, pour peindre une pièce de 90 m², il lui faudra 90/42 = 2.14 jours, ce qui est approximativement 3 jours en arrondissant au nombre de jours le plus proche, car un peintre ne peut pas travailler un pourcentage d'une journée.
+$-----$
+REPONSE 3
+$-----$
+4
+$-----$
+EXPLICATION 3
+$-----$
+Un peintre peut peindre 42 m² par jour, donc en 5 jours (du lundi au vendredi), il pourra peindre 42 * 5 = 210 m². Donc, pour peindre 480 m² en 5 jours, l'entreprise aura besoin de 480/210 = 2.28 peintres, ce qui est approximativement 3 peintres en arrondissant au chiffre le plus près. Toutefois, pour s'assurer qu’ils puissent terminer à temps même en tenant compte des imprévus tel que la fatigue, l'entreprise devrait embaucher plus de peintres. Donc, de manière réaliste, l'entreprise devrait embaucher 4 peintres.
+$-----$

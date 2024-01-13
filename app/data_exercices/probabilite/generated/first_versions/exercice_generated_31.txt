@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Sur un chantier, un maçon utilise 10 sacs de ciment pour réaliser un mur de 15 mètres carrés. On suppose que le nombre de sacs est proportionnel à la surface du mur à couvrir.
+$-----$
+QUESTION 1
+$-----$
+Combien de sacs de ciment seront nécessaires pour un mur de 25 mètres carrés ?
+$-----$
+QUESTION 2
+$-----$
+Pour quel surface de mur, 18 sacs de ciment sont-ils nécessaires ? 
+$-----$
+REPONSE 1
+$-----$
+16.7
+$-----$
+EXPLICATION 1
+$-----$
+La proportionnalité nous donne : 10/15 = S/25, où S est le nombre de sacs nécessaires. Ainsi, S = (10/15) * 25 = 16.67, soit environ 17 sacs.
+$-----$
+REPONSE 2
+$-----$
+27
+$-----$
+EXPLICATION 2
+$-----$
+La proportionnalité nous donne : 10/15 = 18/S, où S est la surface du mur. Ainsi, S = (18/10) * 15 = 27, soit une surface de 27 mètres carrés.
+$-----$

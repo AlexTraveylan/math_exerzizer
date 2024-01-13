@@ -1,0 +1,15 @@
+Je comprends l'énoncé de l'exercice et les questions. Cependant, je trouve qu'il y a quelques points qui pourraient être miglioré. 
+
+Pour commencer, je suis d'accord avec les réponses fournies. Les calculs sont corrects et suivent la logique des formules de base de la vitesse, la distance et le temps. 
+
+Cependant, je trouve deux points qui pourraient créer une confusion chez certains élèves. 
+
+Premièrement, dans le cas de la première question, il est supposé que le train entre Paris et Nice met également 4 heures, mais ce n'est pas explicitement indiqué, ce qui pourrait confondre quelques élèves. 
+
+De plus, pour la deuxième question, je pense qu'il serait plus approprié de dire "Quel est le temps de voyage du train de Paris à Nice, si la distance est LE DOUBLE DE CELLE ENTRE PARIS ET LYON ?" Au lieu de simplement "le double de celle de Lyon". Cela pourrait aider à préciser où le double devrait être appliqué.
+
+Concernant les unités, elles sont cohérentes tout au long de l'exercice, ce qui facilite le suivi et minimisé la confusion. Les réponses sont également des entiers, ce qui est approprié pour un exercice de ce niveau.
+
+Enfin, chaque question demande une unique réponse, elles sont donc bien structurées pour produire des réponses univoques. 
+
+Mais, une autre idée pour rendre cet exercice encore plus intéressant serait d'encourager les élèves à réfléchir sur les distances réelles entre ces villes, ainsi ils pourraient comprendre l'importance des unités et du temps en mathématiques.

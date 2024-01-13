@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Thomas vend des bracelets dans un marché. Chaque bracelet coûte 2€. En une journée, il a réussi à vendre 125 bracelets.
+$-----$
+QUESTION 1
+$-----$
+Quel est le montant total que Thomas a gagné pour cette journée?
+$-----$
+QUESTION 2
+$-----$
+Combien de bracelets doit-il vendre pour gagner 1000€?
+$-----$
+REPONSE 1
+$-----$
+250
+$-----$
+EXPLICATION 1
+$-----$
+Le montant total que Thomas a gagné peut être calculé par une règle de trois : prix par bracelet * nombre de bracelets = montant total. Donc, 2€ * 125 bracelets = 250€.
+$-----$
+REPONSE 2
+$-----$
+500
+$-----$
+EXPLICATION 2
+$-----$
+Pour déterminer combien de bracelets Thomas doit vendre pour gagner 1000€, nous devons faire : montant souhaite / prix par bracelet. Donc, 1000€ / 2€ = 500 bracelets.
+$-----$

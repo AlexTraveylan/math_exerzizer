@@ -1,0 +1,7 @@
+J'ai bien compris l'énoncé et les questions. Je suis d'accord avec les réponses, elles sont bien déduites à partir de l'information donnée dans l'énoncé. Puisque la relation entre le nombre de téléviseurs vendus et le prix de vente est clairement définie comme étant proportionnelle, je ne pense pas qu'il y ait d'autres réponses possibles ou qu'une confusion puisse survenir à partir des unités.
+
+Cependant, je trouve que l'énoncé porte à confusion. En général, on s'attend à ce que le nombre de produits vendus diminue lorsque le prix augmente, et non l'inverse. Il serait peut-être plus clair de préciser dans l'énoncé que, dans ce cas particulier, les vents augmentent avec le prix pour une raison quelconque (par exemple une perception de qualité supérieure). 
+
+De plus, la deuxième question pourrait être reformulée pour éviter toute confusion sur l'idée de fixer un objectif de vente (100 unités) et de déterminer le prix nécessaire pour atteindre cet objectif. Il pourrait être formulé, par exemple : "Quel devrait être le prix de vente pour que le magasin vende exactement 100 téléviseurs ?"
+
+Les réponses à ces questions sont entièrement entières, en fonction des valeurs utilisées dans l'exercice. Cependant, dans un cas réel, il pourrait y avoir des décimaux si les valeurs ne sont pas aussi bien arrondies.

@@ -1,0 +1,43 @@
+$-----$
+ENONCE
+$-----$
+Le jardin de Jean-Luc est de forme rectangulaire. Pour le délimiter, il a planté 4 piquets à chaque coin. Par la suite, il a décidé d'ajouter un piquet tous les 2 mètres. Si le jardin mesure 8 mètres de largeur et 10 mètres de longueur, combien de piquets a-t-il utilisé au total ?
+$-----$
+QUESTION 1
+$-----$
+Combien de piquets a-t-il planté sur la longueur ? 
+$-----$
+QUESTION 2
+$-----$
+Combien de piquets a-t-il planté sur la largeur ? 
+$-----$
+QUESTION 3
+$-----$
+Combien de piquets a-t-il utilisé au total ?
+$-----$
+REPONSE 1
+$-----$
+6
+$-----$
+EXPLICATION 1
+$-----$
+Jean-Luc a planté un piquet tous les 2 mètres sur une longueur de 10 mètres.
+Les deux piquets des extrémités ont déjà été comptés, donc il a planté 10/2 - 2 = 6 piquets supplémentaires.
+$-----$
+REPONSE 2
+$-----$
+4
+$-----$
+EXPLICATION 2
+$-----$
+Jean-Luc a planté un piquet tous les 2 mètres sur une largeur de 8 mètres.
+Les deux piquets des extrémités ont déjà été comptés, donc il a planté 8/2 - 2 = 4 piquets supplémentaires.
+$-----$
+REPONSE 3
+$-----$
+14
+$-----$
+EXPLICATION 3
+$-----$
+En ajoutant les 4 piquets des coins du jardin, on obtient 6 (longueur) + 4 (largeur) + 4 (coins) = 14 piquets au total.
+$-----$

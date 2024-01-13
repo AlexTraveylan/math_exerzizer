@@ -1,0 +1,55 @@
+$-----$
+ENONCE
+$-----$
+Considérons une certaine substance qui, pour 100g, contient : 5g de protéines, 20g de glucides et 10g de lipides.
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité de protéines trouve-t-on dans 500g de cette substance?
+$-----$
+QUESTION 2
+$-----$
+Quelle quantité de glucides trouve-t-on dans 150g de cette substance?
+$-----$
+QUESTION 3
+$-----$
+Quelle quantité de lipides trouve-t-on dans 250g de cette substance?
+$-----$
+QUESTION 4
+$-----$
+Si on ajoute à 150g de cette substance, 150g d'une autre substance qui contient 10g de protéines pour 100g. Quelle sera la quantité totale de protéines?
+$-----$
+REPONSE 1
+$-----$
+25
+$-----$
+EXPLICATION 1
+$-----$
+Pour 100g il y a 5g de protéines, donc pour 500g (qui est 100g multiplié par 5), il y a 5g x 5 = 25g de protéines. Nous avons simplement appliqué la règle de trois.
+$-----$
+REPONSE 2
+$-----$
+30
+$-----$
+EXPLICATION 2
+$-----$
+Pour 100g il y a 20g de glucides, donc pour 150g (qui est 100g multiplié par 1.5), il y a 20g x 1.5 = 30g de glucides. Nous avons simplement appliqué la règle de trois.
+$-----$
+REPONSE 3
+$-----$
+25
+$-----$
+EXPLICATION 3
+$-----$
+Pour 100g, il y a 10g de lipides, donc pour 250g (qui est 100g multiplié par 2.5), il y a 10g x 2.5 = 25g de lipides. Nous avons simplement appliqué la règle de trois.
+$-----$
+REPONSE 4
+$-----$
+12.5
+$-----$
+EXPLICATION 4
+$-----$
+Pour 100g de la première substance il y a 5g de protéines, donc pour 150g, nous avons 5g x 1.5 = 7.5g de protéines. 
+Pour 100g de la deuxième substance il y a 10g de protéines, donc pour 150g, nous avons 10g x 1.5 = 15g de protéines.
+Au total, nous avons donc 7.5g + 15g = 22.5g de protéines. Nous avons simplement appliqué deux fois la règle de trois puis ajouté les deux résultats.
+$-----$

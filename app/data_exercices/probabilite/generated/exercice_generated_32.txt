@@ -1,0 +1,53 @@
+$-----$
+ENONCE
+$-----$
+Thomas vend des bracelets dans un marché à 2€ pièce. Un jour, il parvient à vendre 125 bracelets et souhaite connaître le montant total qu'il a gagné. Il se demande également combien de bracelets il devrait vendre pour gagner une certaine somme d'argent.
+$-----$
+QUESTION 1
+$-----$
+Quel est le montant total que Thomas a gagné en vendant 125 bracelets?
+$-----$
+QUESTION 2
+$-----$
+Combien de bracelets Thomas doit-il vendre pour atteindre une somme de 1000€?
+$-----$
+QUESTION 3
+$-----$
+Supposons que le prix de chaque bracelet augmente de 0,5€. Combien Thomas recevra-t-il en vendant 125 bracelets?
+$-----$
+QUESTION 4
+$-----$
+Si Thomas continue à vendre 125 bracelets par jour, combien de jours lui faudra-t-il pour atteindre une somme de 2500€?
+$-----$
+REPONSE 1
+$-----$
+250
+$-----$
+EXPLICATION 1
+$-----$
+Le montant total que Thomas a gagné se calcule en multipliant le nombre de bracelets vendus par le prix de chaque bracelet. Donc, 2€ * 125 bracelets = 250€.
+$-----$
+REPONSE 2
+$-----$
+500
+$-----$
+EXPLICATION 2
+$-----$
+Pour savoir combien de bracelets Thomas doit vendre pour atteindre 1000€, nous divisons le montant souhaité par le prix de chaque bracelet. Donc, 1000€ / 2€ = 500 bracelets.
+$-----$
+REPONSE 3
+$-----$
+312.5
+$-----$
+EXPLICATION 3
+$-----$
+Avec le prix augmenté, chaque bracelet coûte maintenant 2,5€. Donc, en vendant 125 bracelets, Thomas recevra 2,5€ * 125 bracelets = 312,5€.
+$-----$
+REPONSE 4
+$-----$
+10
+$-----$
+EXPLICATION 4
+$-----$
+A raison de 125 bracelets vendus par jour, chaque jour, Thomas gagne 2€ * 125 bracelets = 250€. Pour atteindre une somme de 2500€, il lui faudrait donc 2500€ / 250€ = 10 jours.
+$-----$

@@ -1,0 +1,34 @@
+
+$-----$
+ENONCE
+$-----$
+Lou a découpé un tissu de 2 mètres de long pour faire une écharpe.
+Elle utilise chaque fois 40 cm de tissu pour une écharpe.
+$-----$
+QUESTION 1
+$-----$
+Combien d'écharpes Lou peut-elle faire avec le tissu ?
+$-----$
+QUESTION 2
+$-----$
+Si le tissu coûte 10€ le mètre, combien coûte chaque écharpe réalisée par Lou ?
+$-----$
+REPONSE 1
+$-----$
+5
+$-----$
+EXPLICATION 1
+$-----$
+Lou a un tissu de 2 mètres, soit 200 cm.
+Chaque écharpe utilise 40 cm de tissu. 
+Ainsi, le nombre d'écharpes que Lou peut faire est 200 / 40 = 5.
+$-----$
+REPONSE 2
+$-----$
+4
+$-----$
+EXPLICATION 2
+$-----$
+Le tissu coûte 10€ le mètre, donc 2 mètres coûte 20€.
+Comme Lou peut faire 5 écharpes avec ce tissu, chaque écharpe lui revient à 20 / 5 = 4€. 
+$-----$

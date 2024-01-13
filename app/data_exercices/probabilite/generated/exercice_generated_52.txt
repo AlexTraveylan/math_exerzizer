@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+Les Vergers de Jean ont produit 900 kilogrammes de pommes à partir de 30 arbres. Cela représente une production moyenne par arbre. Bien qu'en réalité de nombreux facteurs peuvent affecter la production tels que le temps, le sol, les parasites, etc., nous supposerons pour cet exercice que chaque arbre produit la même quantité de pommes.
+$-----$
+QUESTION 1
+$-----$
+Si Jean plante 100 arbres, quelle serait la production totale de pommes, en supposant que chaque arbre produit en moyenne la même quantité?
+$-----$
+QUESTION 2
+$-----$
+Combien d'arbres Jean aurait-il besoin pour produire 1500 kilogrammes de pommes, en supposant que chaque arbre produit en moyenne la même quantité?
+$-----$
+REPONSE 1
+$-----$
+3000
+$-----$
+EXPLICATION 1
+$-----$
+Si chaque arbre produit en moyenne la même quantité, alors la production est proportionnelle au nombre d'arbres.
+Si on multiplie le nombre d'arbres par 100/30 = 10/3, on doit multiplier la production par le même nombre. Donc, pour 100 arbres, Jean produirait 900 x (10/3) = 3000kg de pommes.
+$-----$
+REPONSE 2
+$-----$
+50
+$-----$
+EXPLICATION 2
+$-----$
+Inversement, pour obtenir 1500kg de pommes, on doit déterminer le nombre d'arbres nécessaires en divisant la production nécessaire par la production d'un seul arbre. Donc, pour 1500 kg de pommes, Jean aurait besoin de 1500 / (900/30) = 50 arbres.
+$-----$

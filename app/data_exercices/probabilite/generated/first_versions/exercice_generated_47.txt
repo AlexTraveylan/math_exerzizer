@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Pour 100g : 5g de protéines, 20g de glucides et 10g de lipides
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité de protéines y a-t-il dans 500g?
+$-----$
+QUESTION 2
+$-----$
+Quelle quantité de glucides y a-t-il dans 150g?
+$-----$
+QUESTION 3
+$-----$
+Quelle quantité de lipides y a-t-il dans 250g?
+$-----$
+REPONSE 1
+$-----$
+25
+$-----$
+EXPLICATION 1
+$-----$
+Pour 100g il y a 5g de protéines, donc pour 500g, c'est 5 fois plus, soit 5g x 5 = 25g de protéines
+$-----$
+REPONSE 2
+$-----$
+30
+$-----$
+EXPLICATION 2
+$-----$
+Pour 100g il y a 20g de glucides, donc pour 150g, c'est 1,5 fois plus, soit 20g x 1,5 = 30g de glucides
+$-----$
+REPONSE 3
+$-----$
+25
+$-----$
+EXPLICATION 3
+$-----$
+Pour 100g, il y a 10g de lipides, donc pour 250g, c'est 2.5 fois plus, soit 10g x 2.5 = 25g de lipides
+$-----$

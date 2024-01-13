@@ -1,0 +1,17 @@
+Je comprends l'énoncé et les questions, elles semblent assez claires. Les proportions sont données pour 100g, et nous devons les extrapoler pour différentes quantités. Ce sont des problèmes classiques de règles de trois.
+
+Je suis d'accord avec les réponses. Elles semblent correctes en utilisant la règle de trois. 
+
+Je ne pense pas qu'il y ait d'autres réponses possibles qui pourraient créer de confusion. Les réponses sont basées sur une règle mathématique et ne sont donc pas sujettes à interprétation ou ambiguïté.
+
+Pas de confusion possible sur les unités car elles sont clairement indiquées dans l'énoncé et les explications.
+
+Les questions sont assez explicitent mais il pourrait être utile de davantage clarifier ce que l'on cherche. Par exemple, au lieu de "Quelle quantité de glucides y a-t-il dans 150g?" on pourrait demander "Quelle quantité de glucides trouve-t-on dans 150g de cette substance?" pour être sûr que l'élève ne confond pas avec une autre substance.
+
+Chaque question demande une unique réponse et ces réponses sont uniquement des entiers ou des décimaux, il n'y a donc pas de place pour l'interprétation ou la confusion de ce côté-là. 
+
+Mes suggestions pour améliorer cet exercice seraient de :
+
+1. Rendre les questions un peu plus explicites comme je l'ai mentionné précèment.
+2. Peut-être inclure une question où la règle de trois ne s'applique pas directement pour pimenter l'exercice. Par exemple en demandant combien il y aurait de protéines dans un repas comprenant deux ingrédients avec des teneurs différentes en protéines. 
+3. L'explication pourrait aussi inclure l'illustration de la règle de trois pour aider les élèves à la comprendre plus clairement.

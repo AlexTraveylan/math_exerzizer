@@ -1,0 +1,9 @@
+Je comprends parfaitement l'énoncé et les questions. Toutefois, je pense qu'il y a quelques points à améliorer.
+
+En ce qui concerne les réponses, la réponse à la première question est correcte. Cependant, pour la deuxième question, le calcul donne un nombre décimal, ce qui peut créer de la confusion. On ne peut pas imprimer une fraction de photo. Il serait donc utile de préciser que Sarah peut imprimer un nombre entier de photos. Une reformulation serait peut-être "Combien de photos Sarah va-t-elle pouvoir imprimer au maximum avec 20€ ?" . 
+
+Pour ce qui est des unités, je pense que l'exercice pourrait être plus clair en précisant bien que le résultat attendu doit être en euros pour la première question, et en nombre de photos pour la deuxième.
+
+Concernant le nombre de réponses possibles, celle de la première question est unique. Par contre, pour la deuxième, l'arrondi à l'unité supérieure ou inférieure pourrait créer une confusion. Il serait peut-être plus judicieux d'indiquer clairement que Sarah n'imprime que des photos entières, donc le chiffre devrait être arrondi à l'unité inférieure. 
+
+Enfin, dans la formulation des questions, on pourrait mentionner explicitement qu'on attend une réponse en entier pour la deuxième question et en décimal pour la première pour éviter toute ambiguïté.

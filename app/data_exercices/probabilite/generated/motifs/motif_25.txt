@@ -1,0 +1,11 @@
+J'ai bien compris l'énoncé et les questions, on nous demande de calculer la production de l'usine en fonction du temps. L'exercice me semble simple et clair, mais je trouve que cela peut être un peu tricky pour quelqu'un qui a du mal avec la proportionnalité et le passage entre les unités de temps. 
+
+Je suis d'accord avec les solutions et les explications fournies. Pour la question 1, on nous demande le nombre de pièces que l'usine peut produire en une heure, et la réponse est correctement justifiée avec le calcul de la proportionnalité. Pour la question 2, l'application de la multiplication donne la production totale de l'usine en une journée.
+
+Je ne pense pas qu'il pourrait y avoir d'autres réponses qui pourraient semer la confusion. Les questions sont assez explicites pour éviter toute mauvaise interprétation. Cependant, il serait peut-être plus clair d'expliquer pourquoi on utilise la proportionnalité pour répondre à la première question, en disant par exemple que c'est parce que la vitesse de production est constante.
+
+Les unités utilisées dans cet exercice pourraient créer une certaine confusion. Sans conversion des unités, il serait difficile de répondre correctement aux questions. C'est pourquoi il est important de bien comprendre que, pour passer de minutes à heures, on doit diviser par 60. Cela pourrait être précisé dans l'énoncé ou mieux expliqué dans les solutions.
+
+Chaque question ne demande qu'une seule réponse, ce qui simplifie l'exercice. Les réponses sont des nombres entiers, ce qui est logique étant donné que l'on ne peut pas produire une partie d'une pièce.
+
+Ce que je recommanderais à mon prof de maths, c'est de donner un peu plus d'informations sur pourquoi on utilise la proportionnalité dans ce genre d'exercice et d'expliquer davantage le passage entre les unités de temps. Cela aiderait les élèves qui ont du mal avec ces aspects des maths.

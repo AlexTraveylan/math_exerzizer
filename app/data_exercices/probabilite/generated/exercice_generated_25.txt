@@ -1,0 +1,33 @@
+$-----$
+ENONCE
+$-----$
+Une usine dispose d'une machine ultra-performante capable de produire 120 pièces en 45 minutes. La production de cette machine est constante, ce qui signifie qu'elle produit toujours le même nombre de pièces dans la même période de temps (c'est pour cela qu'on parle de proportionnalité).
+
+$-----$
+QUESTION 1
+$-----$
+En gardant à l'esprit la proportionnalité, combien de pièces cette machine est-elle capable de produire en une heure (60 minutes) ?
+
+(Note : Pour passer des minutes aux heures, on considère qu'1 heure correspond à 60 minutes.)
+$-----$
+QUESTION 2
+$-----$
+Si l'usine fait fonctionner cette machine pendant une journée de 8 heures, combien de pièces sera-t-elle capable de produire en une journée ?
+
+$-----$
+REPONSE 1
+$-----$
+160
+$-----$
+EXPLICATION 1
+$-----$
+La production de pièces est proportionnelle au temps. Ayant compris que la machine produit 120 pièces en 45 minutes, il faut milapnifier le temps en heure (60 minutes). Donc, il suffit de multiplier le nombre de pièces par le rapport du nouveau temps sur l'ancien temps : (120 pièces /45 minutes)*60 minutes =160 pièces
+$-----$
+REPONSE 2
+$-----$
+1280
+$-----$
+EXPLICATION 2
+$-----$
+On sait maintenant qu'en une heure, la machine produit 160 pièces. Donc, dans une journée de travail de 8 heures (typique pour beaucoup d'usines), la machine sera capable de produire : 160 pièces x 8 heures = 1280 pièces.
+$-----$

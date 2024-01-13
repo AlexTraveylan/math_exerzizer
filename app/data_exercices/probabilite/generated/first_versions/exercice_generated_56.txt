@@ -1,0 +1,32 @@
+$-----$
+ENONCE
+$-----$
+Lors d'une course à pied, Nathan court à une vitesse moyenne de 12 km/h. Son ami Thomas, qui est un peu plus rapide, court à une vitesse moyenne de 15 km/h.
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourt Nathan en 90 minutes ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps Thomas met-il à parcourir la même distance ?
+$-----$
+REPONSE 1
+$-----$
+18
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue est le produit de la vitesse par le temps.
+90 minutes correspondent à 1.5 heures.
+Nathan parcourt donc 12 km/h * 1.5 h = 18 km.
+$-----$
+REPONSE 2
+$-----$
+1.2
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour parcourir une certaine distance est le quotient de la distance par la vitesse.
+Thomas met donc 18 km / 15 km/h = 1.2 heures pour parcourir la même distance que Nathan.
+$-----$

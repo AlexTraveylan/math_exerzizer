@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Une entreprise fabrique des tablettes tactiles. Le coût de fabrication est de 150 € par tablette et ces tablettes sont ensuite vendues 220 € pièce.
+$-----$
+QUESTION 1
+$-----$
+Combien l'entreprise gagne-t-elle par tablette vendue ?
+$-----$
+QUESTION 2
+$-----$
+Si l'entreprise vend 3000 tablettes, combien gagne-elle ?
+$-----$
+QUESTION 3
+$-----$
+Si l'entreprise souhaite gagner 180 000 €, combien de tablettes doit-elle vendre ?
+$-----$
+REPONSE 1
+$-----$
+70
+$-----$
+EXPLICATION 1
+$-----$
+Le gain par tablette est égal au prix de vente moins le coût de fabrication, soit 220 - 150 = 70 €.
+$-----$
+REPONSE 2
+$-----$
+210000
+$-----$
+EXPLICATION 2
+$-----$
+Si l'entreprise vend 3000 tablettes, elle gagne 3000 * 70 = 210 000 €.
+$-----$
+REPONSE 3
+$-----$
+2571.43
+$-----$
+EXPLICATION 3
+$-----$
+Si l'entreprise souhaite gagner 180 000 €, elle doit vendre 180 000 / 70 = 2571,43 tablettes. Comme elle ne peut pas vendre une partie d'une tablette, elle doit donc vendre au moins 2572 tablettes.
+$-----$

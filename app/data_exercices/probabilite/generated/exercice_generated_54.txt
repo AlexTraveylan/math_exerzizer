@@ -1,0 +1,19 @@
+
+$-----$
+ENONCE
+$-----$
+Pour peindre une barrière uniformément, vous avez besoin de 3 litres de peinture. Si un litre de peinture couvre 10 mètres carrés en moyenne, quelle quantité de peinture aurez-vous besoin pour peindre une clôture de 57 mètres carrés?
+$-----$
+QUESTION 1
+$-----$
+Combien de litres de peinture faut-il pour peindre une clôture de 57 mètres carrés ?
+$-----$
+REPONSE 1
+$-----$
+5.7
+$-----$
+EXPLICATION 1
+$-----$
+Si 1 litre de peinture couvre 10 mètres carrés, alors pour peindre une surface de 57 mètres carrés, vous avez besoin de : 57/10 = 5.7 litres de peinture.
+Veuillez noter que c'est une estimation basée sur les moyennes données et la quantité réelle pourrait légèrement varier en fonction de facteurs tels que le type de surface de la clôture etc.
+$-----$

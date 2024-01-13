@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Sur un chantier, un maçon utilise 10 sacs de ciment entiers pour réaliser un mur de 15 mètres carrés. On suppose que le nombre de sacs est proportionnel à la surface du mur à couvrir.
+$-----$
+QUESTION 1
+$-----$
+A combien de sacs de ciment entiers s'attendre pour un mur de 25 mètres carrés, arrondis à l'unité près ?
+$-----$
+QUESTION 2
+$-----$
+Quelle est la surface arrondi à l'unité d'un mur qui nécessite 18 sacs de ciment entiers ? 
+$-----$
+REPONSE 1
+$-----$
+17
+$-----$
+EXPLICATION 1
+$-----$
+La proportionnalité nous donne : 10/15 = S/25, où S est le nombre de sacs nécessaires. Ainsi, S = (10/15) * 25 = 16.667, que nous arrondissons à 17 sacs pour être pratique.
+$-----$
+REPONSE 2
+$-----$
+27
+$-----$
+EXPLICATION 2
+$-----$
+La proportionnalité nous donne : 10/15 = 18/S, où S est la surface du mur. Ainsi, S = (18/10) * 15 = 27, soit une surface de 27 mètres carrés arrondie à l'unité la plus proche.
+$-----$

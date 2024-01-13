@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Un peintre s'est lancé pour défi de peindre tout un quartier. Il a estimé qu'il lui fallait 4h pour peindre chaque maison et qu'il y avait 80 maisons dans ce quartier.
+$-----$
+QUESTION 1
+$-----$
+Combien d'heures lui faudra-t-il pour peindre tout le quartier?
+$-----$
+QUESTION 2
+$-----$
+Il travaille 8h par jour. Combien de jours lui faudra-t-il pour peindre tout le quartier?
+$-----$
+REPONSE 1
+$-----$
+320
+$-----$
+EXPLICATION 1
+$-----$
+Etant donné que ça lui prend 4h pour peindre une maison donc pour 80 maisons, cela lui prendra 80*4 = 320h.
+$-----$
+REPONSE 2
+$-----$
+40
+$-----$
+EXPLICATION 2
+$-----$
+Il travaille 8h par jour. Donc si ça lui faut 320 heures pour faire toutes les maisons, cela lui prendra 320 / 8 = 40 jours.
+$-----$

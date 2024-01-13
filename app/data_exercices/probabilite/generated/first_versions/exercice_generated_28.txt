@@ -1,0 +1,35 @@
+$-----$
+ENONCE
+$-----$
+Une voiture consomme 7 litres d'essence pour effectuer un trajet de 100 km.
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité d'essence consommera-t-elle pour faire un trajet de 280 km ?
+$-----$
+QUESTION 2
+$-----$
+Quelle distance pourra parcourir la voiture en ayant consommé 21 litres ?
+$-----$
+REPONSE 1
+$-----$
+19.6
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, la consommation de carburant est proportionnelle au trajet.
+Alors, 7/100 = C/280
+D'où C = (7 x 280) / 100 = 19.6
+Donc la voiture consommerait 19.6 litres pour un trajet de 280 km.
+$-----$
+REPONSE 2
+$-----$
+300
+$-----$
+EXPLICATION 2
+$-----$
+D'après l'énoncé, la consommation de carburant est proportionnelle au trajet.
+Alors, 7/100 = 21/D
+D'où D = (21 x 100) / 7 = 300
+Donc la voiture peut parcourir une distance de 300 km avec 21 litres.
+$-----$

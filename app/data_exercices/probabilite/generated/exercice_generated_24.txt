@@ -1,0 +1,51 @@
+$-----$
+ENONCE
+$-----$
+En salle de sport, 5 séries de 12 pompes sont effectuées par chaque personne présente. Un jour, le nombre total de pompes effectuées est de 1800.
+$-----$
+QUESTION 1
+$-----$
+Combien de personnes étaient présentes en salle de sport ce jour-là ? Expliquez comment vous avez obtenu votre réponse.
+$-----$
+QUESTION 2
+$-----$
+Si deux personnes supplémentaires étaient présentes et participaient également aux 5 séries de 12 pompes, quel serait le total des pompes effectuées ?
+$-----$
+QUESTION 3
+$-----$
+Combien de séries supplémentaires chaque personne devrait-elle faire pour que le total des pompes effectuées atteigne 2000 pompes ? Assurez-vous d'expliquer votre processus de pensée.
+$-----$
+REPONSE 1
+$-----$
+30
+$-----$
+EXPLICATION 1
+$-----$
+Chaque personne fait 5 séries de 12 pompes, soit un total de 5 x 12 = 60 pompes.
+Si le nombre total de pompes effectuées est de 1800 alors, 1800 / 60 = 30 personnes étaient présentes en salle de sport ce jour-là.
+$-----$
+REPONSE 2
+$-----$
+1920
+$-----$
+EXPLICATION 2
+$-----$
+Si deux personnes supplémentaires étaient présentes et qu'elles faisaient également 5 séries de 12 pompes, alors nous aurions 30 personnes + 2 personnes = 32 personnes.
+Chaque personne faisant 60 pompes, cela signifie que le total des pompes effectuées serait de 32 personnes x 60 pompes = 1920 pompes.
+$-----$
+REPONSE 3
+$-----$
+4
+$-----$
+EXPLICATION 3
+$-----$
+Pour atteindre un total de 2000 pompes avec 30 personnes, nous devons d'abord déterminer combien de pompes supplémentaires sont nécessaires.
+2000 pompes - 1800 pompes = 200 pompes supplémentaires.
+Si chaque série de pompes compte 12, alors 200 pompes supplémentaires / 12 pompes par série = environ 16,67 séries.
+Puisque nous ne pouvons pas faire une fraction de série, nous arrondissons à 17 séries.
+Ensuite, si ces 17 séries sont réparties entre 30 personnes, alors 17 séries / 30 personnes = environ 0,57 séries par personne.
+Encore une fois, nous ne pouvons pas faire une fraction de série, nous arrondissons donc à 1 série supplémentaire par personne.
+Cela fait donc un total de 5 séries + 1 série supplémentaire = 6 séries par personne.
+En y réfléchissant à nouveau, cela donnerait un total de 2160 pompes, ce qui est plus que ce que nous devons atteindre.
+Si nous enlevons une série de 12 pompes pour chaque personne jusqu'à atteindre l'objectif de 2000 pompes, nous trouvons donc que chaque personne doit faire environ 4 séries supplémentaires.
+$-----$

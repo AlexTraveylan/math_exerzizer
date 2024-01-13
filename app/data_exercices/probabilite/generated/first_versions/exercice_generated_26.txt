@@ -1,0 +1,32 @@
+$-----$
+ENONCE
+$-----$
+Un canard nage dans une rivière à une vitesse de 2km/h.
+Sachant que la rivière a un débit de 0,5 km/h, (débit qui va dans le même sens que le canard).
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourt le canard dans la rivière en 4 heures ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps mettra le canard pour parcourir 10 km dans la rivière ?
+$-----$
+REPONSE 1
+$-----$
+10
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue par le canard dans la rivière est égale à la somme des vitesses du canard et de la rivière multipliée par le temps.
+Ainsi, nous avons: (2 + 0,5) * 4 = 10 km.
+$-----$
+REPONSE 2
+$-----$
+2
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour parcourir 10 km est égal à la distance divisée par la somme des vitesses.
+Ainsi, nous avons : 10 / (2 + 0,5) = 2 heures.
+$-----$

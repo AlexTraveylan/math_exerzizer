@@ -1,0 +1,9 @@
+Je comprends bien l'énoncé et les questions. Les réponses sont correctes avec des explications détaillées. La confusion qui pourrait être possible concerne la conversion des kilomètres en litres, mais les explications sont assez claires. Cependant, je note quelques problèmes que mon professeur devrait prendre en compte. 
+
+Premièrement, les questions manquent d'un certain niveau de difficulté. Ce serait bien d'avoir plus de complexité, par exemple, en incorporant différentes opérations dans une seule question ou en ajoutant des éléments tels que la vitesse moyenne ou le temps de trajet.
+
+Deuxièmement, la réponse à la deuxième question est un nombre rond, ce qui est assez rare dans la vie réelle. Cela pourrait donner l'impression que les problèmes mathématiques sont toujours bien ordonnés et ne correspondent pas à des situations réelles. Il serait plus réaliste si les calculs donnaient parfois des réponses avec des chiffres après la virgule.
+
+Enfin, une autre amélioration consiste à expliquer pourquoi on utilise la règle de trois pour résoudre ces problèmes. Cela aidera à une meilleure compréhension de la notion de proportionnalité, qui est le cœur de l'exercice. Parfois, nous avons simplement des règles à suivre sans comprendre leur sens, donc expliquer pourquoi utiliser cette méthode serait précieux. 
+
+En général, plus de contexte réel et une compréhension plus profonde de la méthode utilisée pourraient améliorer cet exercice.

@@ -1,0 +1,7 @@
+L'énoncé et les questions sont compréhensibles et clairs. Les questions posées demandent toutes une seule réponse. En ce qui concerne les réponses, je suis d'accord avec les solutions proposées étant donné que le calcul se base sur une règle de trois, proportion qui reste constante dans le contexte de cet exercice.
+
+Cependant, je pense qu'une source de confusion réside dans les unités utilisées. En effet, les réponses sont présentées en grammes pour la farine et en nombre entier pour les crêpes. Je pense que cela serait plus clair si l'énoncé précisait "500g de farine pour 20 crêpes" puis demandait "Combien de grammes de farine Jacob a-t-il besoin pour préparer 45 crêpes ?" et "Si Jacob dispose seulement de 700g de farine, combien de crêpes peut-il préparer avec cette quantité ?".
+
+La possibilité de confusion sur les réponses est limitée, vu que les questions liées aux mathématiques sont souvent précises et demandent une unique réponse. Les réponses à ces questions sont uniquement des entiers, ce qui est approprié vu qu'il est difficile de faire une fraction d'une crêpe ou d'utiliser une fraction d'un gramme de farine. 
+
+Enfin, je pense que l'exercice pourrait être amélioré en ajoutant une question de réflexion. Par exemple, "Que pourrait faire Jacob s'il souhaite préparer 30 crêpes mais qu'il n'a que 400g de farine ?". Cela inciterait à s'engager davantage dans l'exercice et à utiliser plus profondément les notions d'échelle et de proportionnalité.

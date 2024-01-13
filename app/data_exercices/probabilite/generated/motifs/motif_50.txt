@@ -1,0 +1,9 @@
+J'ai bien compris l'énoncé ainsi que les deux questions. Néanmoins, je voudrais exprimer quelques points de vue critiques.
+
+Il serait utile d'introduire dans l'énoncé que Youssef ne reçoit pas d'argent s'il ne récolte pas un arbre en entier. C'est-à-dire, il est payé en entiers de 30€ et non en fractions. Cela pourrait éviter une confusion possible car dans la réalité si quelqu'un travaille une partie de l'heure, il est en général payé pour cette partie.
+
+En ce qui concerne la première question, la réponse est claire, précise et ne laisse pas de place à une ambiguïté. C'est une simple multiplication.
+
+Pour la deuxième question, la réponse dépend de l'hypothèse que Youssef ne peut être payé qu'en entiers de 30€. Dans la réalité, il pourrait récolter une partie d'un arbre et être payé en conséquence, ce qui mettrait la réponse en nombre décimal. 
+
+Enfin, même si les questions semblent explicites, il pourrait être intéressant d'ajouter des questions plus complexes, par exemple, combien Youssef gagnerait s'il récoltait 1,5 arbres par jour pendant une semaine. Dans l'état actuel, l'exercice ne nécessite que des compétences basiques en multiplication et division. J'estime qu'il serait bon d'introduire des notions de calcul plus complexe pour un niveau de 4ème.

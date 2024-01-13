@@ -1,0 +1,43 @@
+$-----$
+ENONCE
+$-----$
+Pour un travail d'été, Youssef est embauché dans un verger. Il est payé 30€ pour chaque arbre qu'il récolte entièrement. Si Youssef ne récolte qu'une partie d'un arbre, il n'est pas payé pour cette fraction.
+$-----$
+QUESTION 1
+$-----$
+Combien Youssef gagnera-t-il s'il récolte 12 arbres mûrs en une journée ?
+$-----$
+QUESTION 2
+$-----$
+Combien d'arbres mûrs Youssef doit-il récolter pour gagner 210€ ?
+$-----$
+QUESTION 3
+$-----$
+Supposons que Youssef arrive à récolter 1,5 arbres par jour pendant une semaine. Combien gagnera-t-il à la fin de la semaine ?
+$-----$
+REPONSE 1
+$-----$
+360
+$-----$
+EXPLICATION 1
+$-----$
+Puisque Youssef gagne 30€ par arbre, il gagnera 30 x 12 = 360€ s'il récolte 12 arbres en une journée.
+$-----$
+REPONSE 2
+$-----$
+7
+$-----$
+EXPLICATION 2
+$-----$
+Si Youssef souhaite gagner 210€, il doit récolter 210 ÷ 30 = 7 arbres mûrs.
+$-----$
+REPONSE 3
+$-----$
+300
+$-----$
+EXPLICATION 3
+$-----$
+Youssef récoltant 1,5 arbres par jour, il ne sera payé qu'entièrement par arbre. Donc il est payé 30€ par jour. S'il travaille pendant 7 jours, il gagnera donc 30€ * 7 = 210€.
+En plus de cela, au bout de deux jours, il aura récolté une partie d'un autre arbre qui ne l'a pas été compté. Cela se reproduit trois fois pendant la semaine (le deuxième, le quatrième et le sixième jour) ce qui représente 3 arbres entiers soit 3*30€ = 90€. 
+Au total, Youssef gagnera 210€ + 90€ = 300€ à la fin de la semaine.
+$-----$

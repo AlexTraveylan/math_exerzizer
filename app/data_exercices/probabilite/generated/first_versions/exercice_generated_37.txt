@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+Une usine fabrique des jouets pour les fêtes de Noël. En une heure, cette usine peut produire 60 peluches.
+$-----$
+QUESTION 1
+$-----$
+Combien de peluches cette usine peut-elle produire en une journée de 8 heures de travail ?
+$-----$
+QUESTION 2
+$-----$
+Si un lot de 5 peluches coûte 25€, combien coûterait un lot contenant une production d'une journée toute entière ?
+$-----$
+REPONSE 1
+$-----$
+480
+$-----$
+EXPLICATION 1
+$-----$
+Dans ce problème, le nombre de peluches est proportionnel au nombre d’heures. Donc pour une journée de 8 heures de travail, l'usine peut produire 60 * 8 = 480 peluches.
+$-----$
+REPONSE 2
+$-----$
+2400
+$-----$
+EXPLICATION 2
+$-----$
+Nous savons que 5 peluches coûtent 25€, donc 1 peluche coûte 25/5 = 5€. Par conséquent, un lot de 480 peluches coûterait 480 * 5 = 2400€.
+
+$-----$

@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Lola a acheté une nouvelle voiture qui consomme 60 litres pour faire 300 km lorsqu'elle a un plein d'essence. Considerons qu'elle dispose toujours d'un plein d'essence à chaque début de trajet.
+$-----$
+QUESTION 1
+$-----$
+Si Lola doit faire un trajet de 450 km, quelle quantité d'essence va-t-elle consommer (en litres) pour ce trajet?
+$-----$
+QUESTION 2
+$-----$
+Si Lola a 45 litres d'essence dans son réservoir, quelle distance maximale (en km) peut-elle parcourir sans manquer d'essence ?
+$-----$
+QUESTION 3
+$-----$
+Si Lola améliore la consommation de sa voiture à 4 km par litre, quelle quantité d'essence lui faudra-t-il pour faire un parcours de 500 km ?
+$-----$
+REPONSE 1
+$-----$
+90
+$-----$
+EXPLICATION 1
+$-----$
+La consommation d'essence est proportionnelle à la distance parcourue. Le taux de consommation est de 60L / 300km = 0.2 litres par km. Donc, pour faire 450 km, Lola consommera : 0.2 l/km x 450 km = 90 litres.
+$-----$
+REPONSE 2
+$-----$
+225
+$-----$
+EXPLICATION 2
+$-----$
+La distance que Lola peut parcourir est proportionnelle à la quantité d'essence. Le taux est de 300km / 60L = 5 km par litre. Donc, avec 45 litres, Lola peut parcourir : 5 km/l x 45 l = 225 km.
+$-----$
+REPONSE 3
+$-----$
+125
+$-----$
+EXPLICATION 3
+$-----$
+Si Lola améliore sa consommation à 4 km par litre, pour un trajet de 500 km, elle aura besoin de : 500km / 4 km/l = 125 litres.
+$-----$

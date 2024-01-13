@@ -1,0 +1,31 @@
+$-----$
+ENONCE
+$-----$
+Nathan aime faire du jogging. Lors de ses entrainements réguliers, il court à une vitesse moyenne de 12 km/h. Son ami Thomas, qui est un coureur plus expérimenté, maintient une vitesse moyenne de 15 km/h lors de ses propres entrainements.
+
+N'oublie pas : la vitesse est en kilomètres par heure (km/h) et le temps est en heures.
+$-----$
+QUESTION 1
+$-----$
+Si Nathan court pendant 90 minutes (ce qui correspond à 1,5 heures), quelle distance aura-t-il parcourue ?
+$-----$
+QUESTION 2
+$-----$
+Supposons maintenant que Thomas court exactement la même distance que Nathan. Combien de temps lui faudra-t-il pour la parcourir, en gardant sa vitesse constante de 15 km/h ?
+$-----$
+REPONSE 1
+$-----$
+18
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue est obtenue en multipliant la vitesse par le temps. Ici, Nathan court pendant 1,5 heure à une vitesse de 12 km/h. Donc la distance parcourue par Nathan est de 12 km/h * 1,5 h = 18 km.
+$-----$
+REPONSE 2
+$-----$
+1.2
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour parcourir une certaine distance est obtenu en divisant cette distance par la vitesse. Ici, la distance est de 18 km (c'est la distance que Nathan a couru) et la vitesse de Thomas est de 15 km/h. Donc Thomas met 18 km / 15 km/h = 1,2 heure pour parcourir la même distance que Nathan.
+$-----$

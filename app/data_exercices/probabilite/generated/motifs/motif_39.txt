@@ -1,0 +1,9 @@
+Je comprends bien l'énoncé et les questions. Ils sont simples et clairement exprimés. Les réponses fournies à ces questions me semblent correctes. Chaque question appelle une réponse unique qui, oui, est un nombre entier dans ce cas.
+
+Néanmoins, j'ai plusieurs remarques :
+
+Premièrement, il serait plus intéressant de complexifier légèrement le problème pour renforcer le côté "réflexion" de l'exercice. Par exemple, on pourrait ajouter une question dans laquelle la surface à peindre n'est pas un multiple de 6. Cela obligerait à raisonner sur l'idée d'arrondir à l'unité supérieure, car on ne peut pas acheter un demi pot de peinture. 
+
+Deuxièmement, je trouve que l'énoncé pourrait donner plus d'informations sur Manon pour rendre l'exercice plus engageant ou contextualisé. Par exemple, on pourrait préciser son budget, ou pourquoi elle doit peindre son appartement. Cela donnerait également l'opportunité d'ajouter des questions.
+
+Enfin, je remarque que qu'il n'y a pas de possibilité de confusion sur les unités. C'est un bon point. Néanmoins, cela pourrait rendre l'exercice plus difficile en introduisant des conversions d'unités. Par exemple, si la surface est donnée en mètres carrés, mais le rendement de la peinture est exprimé en litres par mètre carré, les élèves devraient convertir les unités avant de pouvoir résoudre l'exercice.

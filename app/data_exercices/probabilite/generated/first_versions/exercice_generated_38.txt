@@ -1,0 +1,31 @@
+$-----$
+ENONCE
+$-----$
+Sarah décide de vendre des T-shirts pour sa campagne de nettoyage d'environnement dans sa ville. Elle les vend à 15€ pièce et elle sait qu'elle peut en vendre 25 par jour.
+$-----$
+QUESTION 1
+$-----$
+Combien va-t-elle gagner en une journée ?
+$-----$
+QUESTION 2
+$-----$
+Combien va-t-elle gagner en un mois (30 jours) ?
+$-----$
+REPONSE 1
+$-----$
+375
+$-----$
+EXPLICATION 1
+$-----$
+Le montant total gagné est proportionnel au nombre de T-shirts vendus.
+Le coefficient de proportionnalité est 15.
+Donc en une journée, elle va gagner 15 * 25 = 375 €.
+$-----$
+REPONSE 2
+$-----$
+11250
+$-----$
+EXPLICATION 2
+$-----$
+En un mois (30 jours), elle va gagner 375 * 30 = 11250 €.
+$-----$

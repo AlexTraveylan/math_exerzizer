@@ -1,0 +1,9 @@
+L'énoncé est clair ainsi que les questions qui en découlent. Cependant, je pense que cela pourrait être un peu plus clair en mettant l'accent sur le fait que la vitesse est donnée en km/h et le temps en heures dans la question 1. Pour la question 2, il serait bien d'ajouter une explication sur le fait que la distance doit être la même pour Thomas et Nathan. 
+
+Je suis d'accord avec les réponses données. Cependant, elles pourraient sembler confusion pour certains élèves, car elles impliquent des mathématiques avec des fractions ou des nombres décimaux, qui pourraient être un défi pour certains élèves de cette tranche d'âge.
+
+Il n'y a pas d'autres réponses possibles, mais la clarification du défi avec les unités de mesure pourraient être nécessaire pour éviter des erreurs. De plus, le fait que la distance courue par Nathan et Thomas doit être la même pourrait ne pas être immédiatement clair pour tous les élèves.
+
+Chaque question demande une réponse unique, qui peut être un entier ou un nombre décimal. 
+
+Dans l'ensemble, je pense que l'exercice est bien construit mais qu'il pourrait être légèrement retravaillé pour être plus accessible pour tous les élèves.

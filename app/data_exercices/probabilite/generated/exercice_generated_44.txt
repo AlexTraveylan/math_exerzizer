@@ -1,0 +1,43 @@
+
+$-----$
+ENONCE
+$-----$
+Antoine pèse des pommes. Il trouve que 7 pommes pèsent 1,260 grammes.
+$-----$
+QUESTION 1
+$-----$
+Combien pèsent 3 pommes en grammes?
+$-----$
+QUESTION 2
+$-----$
+Antoine veut faire une tarte aux pommes qui nécessite 1 000 grammes de pommes. Combien de pommes doit-il utiliser en arrondissant au nombre entier supérieur si nécessaire?
+$-----$
+QUESTION 3
+$-----$
+Antoine veut préparer multiples tartes aux pommes. Combien de pommes devrait-il peser si chaque tarte nécessite 1kg de pommes et qu'il a prévu de préparer 5 tartes aux pommes?
+$-----$
+REPONSE 1
+$-----$
+540
+$-----$
+EXPLICATION 1
+$-----$
+Puisque 7 pommes pèsent 1,260 grammes, alors 1 pomme pèse 1,260 / 7 = 180 grammes.
+Par conséquent, 3 pommes pèsent 3 * 180 = 540 grammes.
+$-----$
+REPONSE 2
+$-----$
+6
+$-----$
+EXPLICATION 2
+$-----$
+Puisque 1 pomme pèse 180 grammes, alors il faut 1 000 / 180 = 5,56 pommes pour faire 1 kg. Comme Antoine ne peut pas utiliser une fraction de pomme, il doit utiliser 6 pommes, en arrondissant au nombre entier supérieur.
+$-----$
+REPONSE 3
+$-----$
+30
+$-----$
+EXPLICATION 3
+$-----$
+Puisque 1 tarte nécessite environ 6 pommes, donc pour faire 5 tartes, Antoine va avoir besoin de 6*5=30 pommes.
+$-----$

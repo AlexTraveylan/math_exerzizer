@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Michel économise pour acheter un nouveau téléphone qui coûte 659 €. Il économise à un rythme constant de 47 € par semaine.
+$-----$
+QUESTION 1
+$-----$
+En supposant qu'il économise exactement 47 € chaque semaine, combien de semaines faudrait-il approximativement pour qu'il économise assez d'argent pour acheter le téléphone ?
+$-----$
+QUESTION 2
+$-----$
+Combien aura-t-il économisé après 10 semaines ?
+$-----$
+QUESTION 3
+$-----$
+Combien Michel aura-t-il économisé après 7 semaines ?
+$-----$
+REPONSE 1
+$-----$
+14.02
+$-----$
+EXPLICATION 1
+$-----$
+C'est un problème de proportionnalité donc la formule est : 659 € / 47 €/semaine = 14.02 semaines environ.
+$-----$
+REPONSE 2
+$-----$
+470
+$-----$
+EXPLICATION 2
+$-----$
+Il économise 47 € par semaine donc 47 €/semaine x 10 semaines = 470 €.
+$-----$
+REPONSE 3
+$-----$
+329
+$-----$
+EXPLICATION 3
+$-----$
+Il économise 47 € par semaine donc 47 €/semaine x 7 semaines = 329 €.
+$-----$

@@ -1,0 +1,7 @@
+Je comprends l'énoncé et les questions. L'exercice utilise des exemples réalistes et concrets pour illustrer un concept mathématique que nous étudions. Les questions sont claires et les réponses à chaque question sont juste. Cependant, je trouve quelques points à critiquer. 
+
+Premièrement, bien que l'énoncé se réfère à des livres (£) et des euros (€), il n'explique pas clairement ce qu'ils sont. Pour des étudiants qui ne sont pas familiers avec ces devises, cet exercice pourrait être source de confusion. Peut-être que l'énoncé pourrait inclure une brève explication pour aider à clarifier.
+
+Deuxièmement, les réponses sont données en décimaux, qui sont correctes, mais pour certains élèves, cela pourrait créer un décalage entre la réalité de l'argent (qui est généralement gérée en entiers) et les mathématiques. Cela pourrait être résolu soit en utilisant des chiffres arrondis, soit en expliquant pourquoi les calculs de change donnent parfois des nombres décimaux.
+
+Enfin, je pense qu'une question supplémentaire pourrait être ajoutée pour approfondir l'exercice. Par exemple, en demandant combien de £ Caroline aurait besoin pour obtenir une somme spécifique en €. Cela donnerait plus de profondeur à l'exercice et aiderait les étudiants à mieux comprendre le concept de taux de change.

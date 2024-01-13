@@ -1,0 +1,33 @@
+$-----$
+ENONCE
+$-----$
+Lola fait 300 km avec sa voiture équipée d'un réservoir de 60L lorsqu'il est plein. 
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité d'essence consomme-t-elle pour parcourir 450 km ?
+$-----$
+QUESTION 2
+$-----$
+Combien de km peut-elle parcourir avec 45L d'essence ?
+$-----$
+REPONSE 1
+$-----$
+90
+$-----$
+EXPLICATION 1
+$-----$
+La consommation de carburant est proportionnelle à la distance. 
+Le taux de consommation est de 60L / 300km = 0.2 L/km. 
+Donc pour 450 km, Lola consomme 0.2L/km * 450km = 90 L.
+$-----$
+REPONSE 2
+$-----$
+225
+$-----$
+EXPLICATION 2
+$-----$
+La distance parcourue est proportionnelle à la quantité de carburant. 
+Le taux de distance est de 300km / 60L = 5 km/L.
+Donc ave 45L, Lola peut parcourir 5km/L * 45L = 225 km
+$-----$

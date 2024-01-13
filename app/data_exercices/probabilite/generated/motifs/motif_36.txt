@@ -1,0 +1,13 @@
+Oui, l'énoncé et les questions me semblent clairs, sachant que les unités sont explicitement indiquées (mètres, centimètres, euros) et que les informations nécessaires pour effectuer les calculs sont présentes dans l'énoncé. Les réponses fournies sont également correctes.
+
+Cela dit, j'ai plusieurs critiques à formuler:
+
+1. Les unités sont différentes dans la question 1 et dans la première phrase de l'énoncé ce qui pourrait être déroutant pour certains élèves. Il serait peut-être plus efficace de donner la longueur du tissu directement en centimètres pour éviter de mélanger les unités de mesure.
+
+2. Dans la question 2, il aurait été utile de préciser que le prix est pour l'ensemble du tissu utilisé et non pour chaque mètre pour éviter toute confusion.
+
+3. Le type de réponse attendu n'est pas précisé pour la question 2. On pourrait penser à un prix arrondi à l'euro près ou au centime près, selon l'habitude de l'élève. Ça serait bien d'indiquer quel degré de précision est attendu pour le coût de l'écharpe. 
+
+4. Finalement, cet exercice ne contient que des calculs simples. Je pense que l'ajout d'une troisième question qui nécessiterait quelque chose comme le calcul du coût pour une certaine quantité d'écharpes pourrait rendre l'exercice plus stimulant et donner aux élèves plus de chances de développer et démontrer leur compréhension des concepts en jeu. 
+
+En résumé, je pense que l'exercice peut être amélioré en accordant plus d'attention aux détails et en ajoutant un défi supplémentaire pour les élèves.

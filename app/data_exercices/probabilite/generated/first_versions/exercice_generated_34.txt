@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Pierre est à la gym et il fera 4 séries de 20 pompes avec 5 minutes de repos entre chaque série. 
+$-----$
+QUESTION 1
+$-----$
+Combien de pompes Pierre fera-t-il en tout ?
+$-----$
+QUESTION 2
+$-----$
+Combien de minutes s'écoulera avec les repos ?
+$-----$
+REPONSE 1
+$-----$
+80
+$-----$
+EXPLICATION 1
+$-----$
+Pour trouver le nombre de pompes que Pierre fera en tout, nous multiplions le nombre de séries par le nombre de pompes dans chaque série. Donc, 4 séries * 20 pompes par série = 80 pompes.
+$-----$
+REPONSE 2
+$-----$
+15
+$-----$
+EXPLICATION 2
+$-----$
+Pierre prendra une pause après chaque série, sauf la dernière, donc il y aura 3 pauses de 5 minutes chacune. Donc, 3 pauses * 5 minutes = 15 minutes.
+$-----$

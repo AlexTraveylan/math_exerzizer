@@ -1,0 +1,7 @@
+Dans l'ensemble, je comprends l'énoncé et les questions. Elles sont assez claires et j'apprécie que l'on se concentre sur l'application pratique des proportions, cela donne du sens aux maths. Je suis d'accord avec les réponses, elles sont logiques et suivent le principe de proportionnalité mentionné dans l'énoncé.
+
+Cependant, je pense que cet exercice pourrait être amélioré de plusieurs façons. Premièrement, même si l'énoncé précise que nous parlons d'altitude et de distances parcourues, il pourrait être avantageux d'indiquer explicitement que nous parlons de mètres pour éviter toute confusion possible avec d'autres unités de mesure. De plus, cela pourrait favoriser une meilleure compréhension des proportions pour certains élèves.
+
+Ensuite, pour rendre l'exercice un peu plus délicat, il pourrait être intéressant de demander de calculer l'altitude ou la distance à parcourir pour une valeur qui ne donne pas un nombre entier lorsqu'on respecte la proportion. Par exemple, quelle distance faut-il parcourir pour atteindre une altitude de 35 m ? Ou quelle est l'altitude atteinte après avoir parcouru 150 m ? Cela forcerait à travailler avec des fractions ou des décimaux, ce qui pousserait un peu plus la réflexion. 
+
+En résumé, l'exercice est bien conçu pour une première introduction aux proportions, mais il pourrait être amélioré par l'ajout d'une indication sur les unités de mesure et des questions plus complexes pour encourager la manipulation de fractions ou de nombres décimaux.

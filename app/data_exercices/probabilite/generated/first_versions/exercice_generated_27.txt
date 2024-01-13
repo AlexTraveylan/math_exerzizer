@@ -1,0 +1,35 @@
+$-----$
+ENONCE
+$-----$
+Le scooter de Lola consomme 2,7 L d'essence pour 30 km parcourus.
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité d'essence Lola aura-t-elle besoin pour parcourir 50 km ?
+$-----$
+QUESTION 2
+$-----$
+Quelle distance Lola peut-elle parcourir avec un plein de 5 L ?
+$-----$
+REPONSE 1
+$-----$
+4.5
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, la consommation d'essence est proportionnelle à la distance parcourue, 
+d'où 2,7 / 30 = Q / 50, où Q est la quantité d'essence nécessaire pour 50 km.
+On trouve Q = 2,7 * 50 / 30 = 4,5 L.
+Donc, Lola aura besoin de 4,5 L d'essence pour parcourir 50 km.
+$-----$
+REPONSE 2
+$-----$
+55.55
+$-----$
+EXPLICATION 2
+$-----$
+D'après l'énoncé, la distance parcourue est proportionnelle à la quantité d'essence consommée, 
+d'où 30 / 2,7 = D / 5, où D est la distance que Lola peut parcourir avec un plein de 5 L.
+On trouve D = 30 * 5 / 2,7 = 55,555..., soit environ 55,55 km.
+Donc, Lola peut parcourir environ 55,55 km avec un plein de 5 L.
+$-----$

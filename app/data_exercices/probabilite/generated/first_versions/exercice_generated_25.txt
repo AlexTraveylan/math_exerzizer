@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+En utilisant une machine à grande vitesse, une usine peut produire 120 pièces en 45 minutes. 
+
+$-----$
+QUESTION 1
+$-----$
+Combien de pièces l'usine peut-elle produire en une heure ?
+$-----$
+QUESTION 2
+$-----$
+Si l'usine fonctionne 8 heures par jour, combien de pièces peut-elle produire en une journée ?
+$-----$
+REPONSE 1
+$-----$
+160
+$-----$
+EXPLICATION 1
+$-----$
+La production est proportionnelle au temps. Donc en 60 minutes, l'usine peut produire : (120 pièces / 45 minutes) x 60 minutes = 160 pièces
+$-----$
+REPONSE 2
+$-----$
+1280
+$-----$
+EXPLICATION 2
+$-----$
+Si l'usine peut produire 160 pièces en une heure, alors dans une journée de 8 heures, elle pourra produire : 160 pièces x 8 heures = 1280 pièces.
+$-----$

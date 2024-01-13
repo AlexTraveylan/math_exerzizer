@@ -1,0 +1,9 @@
+Je comprends parfaitement l'énoncé et les questions. Les réponses fournies sont exactes en fonction de l'énoncé, car elles respectent simplement la loi de proportionnalité pour le calcul du gain total. Évidemment, il n'y a pas d'autres réponses possibles à ces questions.
+
+Cependant, je pense que l'exercice pourrait être amélioré. Premièrement, supposer que Sarah va vendre exactement 25 T-shirts chaque jour est peut-être trop simpliste et très optimiste. Deuxièmement, est-ce réellement réaliste de s'attendre à ce qu'elle travaille 30 jours consécutifs sans aucun repos ? On pourrait peut-être introduire l'idée qu'elle ait besoin de se reposer et travailler par exemple 6 jours par semaine.
+
+De plus, bien que les unités utilisées soient claires et qu'il n'y ait pas de confusion à ce niveau, je trouve que l'exercice pourrait être plus riche. Il serait intéressant d'intégrer plus de complexité. Par exemple, on pourrait ajouter le coût de production de chaque T-shirt dans les calculs, pour savoir combien elle gagne réellement en net.
+
+En ce qui concerne les questions, elles sont assez explicites et demandent une unique réponse, qui est un entier.
+
+En somme, je suggère que l'énoncé et les questions soient améliorés pour ajouter un peu de réalisme et de complexité. J'espère que mon avis sera utile pour améliorer cet exercice de maths.

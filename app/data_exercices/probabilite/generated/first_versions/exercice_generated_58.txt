@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Le train de Paris à Lyon voyage à une vitesse constante de 200 km/h et met 2 heures pour atteindre Lyon. Le train de Paris à Nice voyage à une vitesse constante de 160 km/h.
+$-----$
+QUESTION 1
+$-----$
+Quelle est la distance entre Paris et Lyon et entre Paris et Nice si le train met 4 heures pour le parcours?
+$-----$
+QUESTION 2
+$-----$
+Quel est le temps de voyage du train de Paris à Nice, si la distance est le double de celle de Lyon?
+$-----$
+REPONSE 1
+$-----$
+400
+$-----$
+EXPLICATION 1
+$-----$
+Comme la vitesse est constante, la distance est donnée par la formule : distance = vitesse x durée. Donc la distance entre Paris et Lyon est de 200 km/h x 2 h = 400 km. Pour le trajet de Paris à Nice, la distance est de 160 km/h x 4 h = 640 km.
+$-----$
+REPONSE 2
+$-----$
+5
+$-----$
+EXPLICATION 2
+$-----$
+Si la distance entre Paris et Nice est le double de celle de Lyon, alors cette distance est de 2 x 400 km = 800 km. Par conséquent, le temps de voyage est donné par : durée = distance / vitesse = 800 km / 160 km/h = 5 heures.
+$-----$

@@ -1,0 +1,11 @@
+Je comprends parfaitement l'énoncé de l'exercice et les deux questions qui sont posées. Elles s'articulent bien autour de la situation proposée.
+
+Les réponses sont correctes dans le sens de l'arithmétique de base : la multiplication et la division. Cependant, il est aussi possible de dire que Michel aurait besoin d'environ 14 semaines pour économiser suffisamment d'argent pour son nouveau téléphone. La réponse pourrait être plus précise en mentionnant "environ 14 semaines" plutôt que simplement "14", car c'est peu probable que Michel arrange exactement une économie de 47 € chaque semaine au centime près.
+
+Aussi, pour la question 2, peut-être qu'il serait bien de rappeler dans l'énoncé que l'économie de 47 € est hebdomadaire. Sinon, cela pourrait créer une confusion sur le calcul à effectuer.
+
+Chaque question demandait une réponse unique qui était un nombre entier, donc pas de difficulté de ce côté-là. Je trouve cependant que l'exercice pourrait être renchéri par une question supplémentaire pour vérifier la compréhension de la proportionnalité, par exemple : "Combien Michel aurait-il économisé après 7 semaines ?".
+
+À noter aussi que l'utilisation de l'approximation dans les calculs pourrait être introduite dans l'exercice pour montrer l'importance de la précision en mathématiques. Par exemple, pour compléter la réponse 1, on pourrait mentionner qu’en réalité il faudrait environ 14.02 semaines.
+
+Overall, c'est un exercice simple et efficace pour comprendre le principe de la proportionnalité, mais il pourrait être amélioré en ajoutant plus de contexte et de précision.
