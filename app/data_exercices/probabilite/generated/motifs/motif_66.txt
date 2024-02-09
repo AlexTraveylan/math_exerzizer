@@ -1,0 +1,9 @@
+Je comprends bien l'énoncé et les questions - il s'agit d'une séquence de problèmes où il faut calculer l'augmentation progressive d'une collection de cartes. Cependant, je pense qu'il y a des améliorations possibles pour rendre l'exercice plus clair et plus pertinent.
+
+D'abord, dans les réponses et les explications, il y a une incohérence concernant le nombre de cartes que Rémy peut avoir : on mentionne qu'il "ne peut pas avoir une fraction de carte", cependant les réponses données incluent des fractions. Pour éviter la confusion, nous devrions indiquer clairement que le nombre de cartes doit être un nombre entier, et donc arrondir les résultats.
+
+Ensuite, l'énoncé parle d'une augmentation de 20% chaque mois, mais on ne précise pas comment cette augmentation est calculée : s'agit-il d'une croissance de 20% par rapport à la collection de base ou par rapport à la collection du mois précédent ? Pour moi, cela n'est pas assez clair dans l'énoncé.
+
+Enfin, l'exercice pourrait être amélioré en proposant une question supplémentaire qui encourage la compréhension générale du concept d'augmentation en pourcentage, comme "A quel rythme la collection de Rémy augmente-t-elle ?" ou "Après combien de mois Rémy doublera-t-il sa collection ?". Ces questions ajoutent de la profondeur à l'exercice et aident à comprendre les implications de l'augmentation en pourcentage.  
+
+En conclusion, alors que l'exercice est correct en général, je pense qu'il y a moyen de le clarifier et de l'approfondir pour une meilleure compréhension.

@@ -1,0 +1,11 @@
+L'énoncé et les questions sont assez clairs pour moi. L'élève est tenu de multiplier un nombre fixe (contribution quotidienne d'Alice) par le nombre de jours pour calculer combien d'argent Alice a économisé.
+
+Je suis d'accord avec les réponses données. Elles correspondent aux calculs corrects basés sur les informations fournies dans l'énoncé et les questions. Aucune autre réponse ne pourrait être correcte si les instructions sont suivies correctement. Il n'y a donc pas de place pour une confusion.
+
+Il n'y a aucune confusion possible sur les unités. L'unité monétaire est clairement donnée en euros et le temps en jours, ce qui permet de faire directement le calcul. De plus, ces deux unités sont universellement comprises et standardisées, ce qui réduit le risque de confusion.
+
+Les questions sont suffisamment explicites. Cependant, la troisième question pourrait introduire une confusion potentielle, car il n'est pas précisé si les 50 jours englobent aussi les jours précédents où Alice économisait 2 euros par jour ou si c'est un nouveau décompte à partir du moment où elle a commencé à économiser 3 euros. Il pourrait être utile de préciser cela pour éviter toute confusion.
+
+Chaque question demande une unique réponse et toutes les réponses sont des nombres entiers par la nature de la question. Alice économise un nombre entier d'euros et il n'y a pas question de fraction d'euro ou quelque chose du genre. 
+
+Globalement, je dirais que l'exercice est bien réalisé, mais la clarification dans la troisième question serait utile pour prévenir toute confusion possible.

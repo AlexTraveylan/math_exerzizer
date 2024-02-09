@@ -1,0 +1,9 @@
+À première vue, l'énoncé et les questions sont clairs et je les comprends. Cependant, bien que les réponses soient correctes, l'exercice est assez simpliste et pourrait être amélioré pour stimuler une réflexion plus en profondeur chez les élèves. 
+
+Premièrement, l'utilisation des unités pourrait prêter à confusion. Par exemple, la farine et le lait sont mesurés en grammes et en centilitres respectivement, des unités de mesure qui pourraient ne pas être familières pour tous les élèves. Il serait plus clair de convertir toutes les unités en un système uniforme, par exemple, le système métrique. 
+
+Deuxièmement, les questions pourraient être reformulées pour encourager les élèves à penser à des scénarios plus réalistes et complexes. Par exemple, nous pourrions demander : "Si Cristina n'a que 2500g de farine, combien de personnes peut-elle nourrir avec ses crêpes ?", "Si un œuf coûte 0,10€ et Cristina a seulement 2€, combien de personnes peut-elle nourrir ?", etc.
+
+Enfin, bien que les réponses nécessitent uniquement des chiffres entiers, ce n'est pas toujours réaliste dans un contexte de cuisine. Il pourrait être plus utile d'introduire la notion de chiffres décimaux, en posant des questions comme "Si chaque œuf pèse en moyenne 60g, combien pèsent tous les œufs nécessaires ?"
+
+En somme, bien que l'exercice soit correct, je pense qu'il pourrait être amélioré à la fois en termes de clarté des unités utilisées, et en encourageant une pensée plus critique et réaliste de la part des élèves.

@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Sur le marché de Chevreuil, un maraîcher vend les melons à 1,20€ l'unité. Sarah passe par son stand et décide d'acheter plusieurs melons pour une fête de famille. Elle s'aperçoit que plus elle en achète, plus le vendeur lui en donne gratuitement en plus.
+$-----$
+QUESTION 1
+$-----$
+Combien Sarah doit-elle dépenser si elle veut lancer une fête avec 30 melons ?
+$-----$
+QUESTION 2
+$-----$
+Le maraîcher décide de lui donner un melon de plus pour chaque tranche de 10 achetés. Combien de melons Sarah aura-t-elle au total si elle en achète 30 ?
+$-----$
+REPONSE 1
+$-----$
+36
+$-----$
+EXPLICATION 1
+$-----$
+Sarah dépensera 30 melons * 1,20 € = 36 €. 
+$-----$
+REPONSE 2
+$-----$
+33
+$-----$
+EXPLICATION 2
+$-----$
+Pour chaque tranche de 10 melons achetés, le maraîcher donne un melon en plus. Donc si Sarah en achète 30, elle recevra 3 melons en plus. Elle aura donc 30 melons + 3 melons = 33 melons au total.
+$-----$

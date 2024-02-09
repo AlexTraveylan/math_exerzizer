@@ -1,0 +1,11 @@
+Je comprends l'énoncé et les questions posées dans l'exercice. L'exercice implique une compréhension des proportions, qui est une compétence importante en mathématiques. Cependant, il y a quelques problèmes avec cet exercice selon moi.
+
+Premièrement, il y a une confusion dans la réponse à la première question. 2 baguettes coûtent 2€, donc logiquement, une baguette coûte 1€. Ainsi, 5 baguettes coûteraient 5€, pas 2€.
+
+Deuxièmement, il y a une confusion similaire dans la deuxième question. Si une baguette coûte 1€, alors avec 12€, nous pourrions acheter 12 baguettes, pas 6.
+
+Troisièmement, les unités utilisées dans l'exercice ne sont pas toujours claires. Dans la première explication, par exemple, on parle de 2€ x (5/2), mais il serait plus logique de parler de 1€ x 5, c'est-à-dire le coût d'une baguette multiplié par le nombre de baguettes. De même, dans la deuxième explication, il serait plus logique de parler de 12€ / 1€/baguette.
+
+Enfin, les questions pourraient être plus explicites et demander une réponse unique. Par exemple, la première question pourrait demander "Combien coûterait exactement 5 baguettes, en supposant que le coût d'une baguette est le même que celui de deux baguettes?" Et la deuxième question pourrait demander "Combien de baguettes exactes pourriez-vous acheter avec 12€, en supposant que le coût d'une baguette est le même que celui de deux baguettes?" 
+
+C'est important car cela pourrait aider à éclaircir les choses et à éviter toute confusion. Et oui, ces réponses sont des entiers, ce qui est logique dans ce contexte puisqu'on ne peut pas acheter une fraction d'une baguette.

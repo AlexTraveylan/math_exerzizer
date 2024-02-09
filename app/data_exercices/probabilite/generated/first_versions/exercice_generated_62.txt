@@ -1,0 +1,43 @@
+
+$-----$
+ENONCE
+$-----$
+Cristina, une cuisinière professionnelle, a une recette de crêpes pour 4 personnes qui nécessite 200g de farine, 2 oeufs et 50 cl de lait.
+Cristina est engagée pour une grosse fête où elle doit préparer des crêpes pour 60 personnes.
+$-----$
+QUESTION 1
+$-----$
+Combien de farine Cristina nécessite-t-elle pour faire des crêpes pour 60 personnes?
+$-----$
+QUESTION 2
+$-----$
+Combien d'oeufs Cristina nécessite-t-elle pour faire des crêpes pour 60 personnes?
+$-----$
+QUESTION 3
+$-----$
+Combien de lait Cristina nécessite-t-elle pour faire des crêpes pour 60 personnes?
+$-----$
+REPONSE 1
+$-----$
+3000
+$-----$
+EXPLICATION 1
+$-----$
+Si pour 4 personnes Cristina utilise 200g de farine, alors pour 60 personnes elle utilisera 60/4 * 200 = 3000g de farine.
+$-----$
+REPONSE 2
+$-----$
+30
+$-----$
+EXPLICATION 2
+$-----$
+Si pour 4 personnes Cristina utilise 2 oeufs, alors pour 60 personnes elle utilisera 60/4 * 2 = 30 oeufs.
+$-----$
+REPONSE 3
+$-----$
+750
+$-----$
+EXPLICATION 3
+$-----$
+Si pour 4 personnes Cristina utilise 50cl de lait, alors pour 60 personnes elle utilisera 60/4 * 50 = 750cl de lait.
+$-----$

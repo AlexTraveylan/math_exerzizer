@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Julie est une artiste qui gagne sa vie en vendant ses œuvres. Elle a peint des tableaux en noir et blanc et des tableaux en couleur. Chaque tableau en noir et blanc est vendu pour 75 €, et chaque tableau en couleur est vendu pour 120 €. Julie ne vend que des tableaux entiers, elle ne peut pas en vendre une fraction.
+$-----$
+QUESTION 1
+$-----$
+Si Julie veut gagner au moins 1050 € en vendant des tableaux en noir et blanc, combien doit-elle au minimum en vendre ?
+$-----$
+QUESTION 2
+$-----$
+Si Julie a gagné 900 € uniquement en vendant des tableaux en noir et blanc, combien de ces tableaux a-t-elle vendus ?
+$-----$
+QUESTION 3
+$-----$
+Si Julie vend 10 tableaux en couleur, combien de tableaux en noir et blanc doit-elle vendre pour obtenir exactement le même revenu ?
+$-----$
+REPONSE 1
+$-----$
+14
+$-----$
+EXPLICATION 1
+$-----$
+Julie veut gagner au moins 1050 € en vendant des tableaux en noir et blanc. Chaque tableau en noir et blanc est vendu pour 75 €. Alors, le nombre de tableaux qu'elle doit vendre est égal au montant qu'elle souhait gagner divisé par le prix unitaire, soit 1050€/75€=14 tableaux.
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+Le revenu total de Julie provenant de tableaux en noir et blanc est de 900 €. Si chaque tableau en noir et blanc est vendu 75 €, alors le nombre de tableaux vendus est 900 € / 75 € = 12 tableaux. 
+$-----$
+REPONSE 3
+$-----$
+16
+$-----$
+EXPLICATION 3
+$-----$
+Julie a gagné 1200 € (120 € * 10) en vendant des tableaux en couleur, et si elle veut gagner le même montant en vendant des tableaux en noir et blanc, elle doit vendre 1200 € / 75 € = 16 tableaux.
+$-----$

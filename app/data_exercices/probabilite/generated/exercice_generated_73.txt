@@ -1,0 +1,75 @@
+$-----$
+ENONCE
+$-----$
+Les parents de Manon lui versent une allocation de 40 € par mois.
+Les parents de Lisa, quant à eux, versent à leur fille une allocation 
+qui est le double de celle de Manon.
+A la fin de chaque mois, elles économisent chacune un pourcentage différent de leur allocation.
+Manon arrive à économiser 55% tandis que Lisa, qui a des goûts plus dispendieux, n'économise que 40%.
+$-----$
+QUESTION 1
+$-----$
+Quelle somme d'argent reçoit Lisa chaque mois ?
+$-----$
+QUESTION 2
+$-----$
+Combien d'argent Manon économise-t-elle chaque mois ?
+$-----$
+QUESTION 3
+$-----$
+Combien d'argent Lisa économise-t-elle chaque mois ?
+$-----$
+QUESTION 4
+$-----$
+Si Manon décide d'économiser cet argent 
+sur une période de 6 mois, combien aura-t-elle économisé ?
+$-----$
+QUESTION 5
+$-----$
+Si un mois, les parents de Lisa peuvent seulement verser 70% de ce qu'ils versent habituellement, combien Lisa aura-t-elle économisé ce mois là?
+$-----$
+REPONSE 1
+$-----$
+80
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, Lisa reçoit le double d'argent de Manon.
+Donc elle reçoit 40x2 = 80 €.
+$-----$
+REPONSE 2
+$-----$
+22
+$-----$
+EXPLICATION 2
+$-----$
+Manon économise 55% de son allocation chaque mois, donc elle économise:
+40*55/100 = 22 € chaque mois.
+$-----$
+REPONSE 3
+$-----$
+32
+$-----$
+EXPLICATION 3
+$-----$
+Lisa économise 40% de son allocation chaque mois, donc elle économise:
+80*40/100 = 32 € chaque mois.
+$-----$
+REPONSE 4
+$-----$
+132
+$-----$
+EXPLICATION 4
+$-----$
+Si Manon économise 22 € par mois durant 6 mois, elle aura:
+22*6 = 132 €.
+$-----$
+REPONSE 5
+$-----$
+22.4
+$-----$
+EXPLICATION 5
+$-----$
+Si les parents de Lisa peuvent seulement verser 70% de l'argent habituel, alors Lisa reçoit 80*70/100 = 56 €. Si elle économise 40% de cela, elle aura:
+56*40/100 = 22.4 €
+$-----$

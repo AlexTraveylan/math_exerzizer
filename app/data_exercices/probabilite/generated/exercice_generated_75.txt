@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Helen souhaite rafraîchir sa salle de séjour avec une nouvelle couche de peinture. Pour une couche sur une surface de 22m², elle utilise 2 pots de peinture d'1 litre chacun.
+$-----$
+QUESTION 1
+$-----$
+Combien de pots de peinture d'1 litre devra-t-elle acheter pour peindre une surface de 77m², en tenant compte qu'elle ne peut pas acheter une fraction de pot de peinture ?
+$-----$
+QUESTION 2
+$-----$
+Si un pot de peinture d'1 litre coûte 18€, combien Helen devra-t-elle dépenser pour acheter suffisamment de peinture pour peindre une surface de 77m² ?
+$-----$
+REPONSE 1
+$-----$
+7
+$-----$
+EXPLICATION 1
+$-----$
+Le nombre de pots de peinture est proportionnel à la surface à peindre. Pour Helen, la proportion est de 2 pots pour 22m². Pour une surface de 77m², on applique donc le ratio (2/22)*77 = 6,93 pots de peinture. Cependant, comme Helen ne peut pas acheter une fraction de pot, elle devra arrondir à 7 pots de peinture.
+$-----$
+REPONSE 2
+$-----$
+126
+$-----$
+EXPLICATION 2
+$-----$
+un pot de peinture d'1 litre coûte 18€, donc pour peindre une surface de 77m², Helen devra acheter 7 pots, soit un coût total de 7 * 18€ = 126€.
+$-----$

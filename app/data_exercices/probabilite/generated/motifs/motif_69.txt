@@ -1,0 +1,11 @@
+L'énoncé et les questions de l'exercice sont clairs et précis. Ils décrivent bien le problème et permettent de comprendre ce qui est attendu. Par contre, je trouve certaines aspects améliorables. 
+
+Tout d'abord, dans les explications, on utilise le terme "proportionnelle" très rapidement sans vraiment l'expliquer ou le définir. Il serait peut-être utile d'ajouter une petite explication pour que les élèves qui ne sont pas familiers avec ce terme puissent mieux comprendre. 
+
+Ensuite, la réponse à la deuxième question donne un nombre avec beaucoup de chiffres après la virgule. C'est un peu déconcertant pour un élève de 4eme. Je pense que ce serait plus approprié d'arrondir la réponse à un nombre entier, voire à un ou deux chiffres après la virgule. En effet, dans la réalité, on n'irait pas à des détails aussi précis quand on parle de la distance qu'une voiture peut parcourir. 
+
+De plus, il n'y a pas d'intervalle ou de marge d'erreur associée à ces réponses. Cela pourrait faire penser aux élèves que ces valeurs sont exactes et définitives, alors qu'en réalité, la consommation d'essence peut varier en fonction de nombreux facteurs.
+
+Enfin, j'ai remarqué qu'il n'y avait pas d'unités dans les réponses. Elles sont essentielles dans ce contexte pour comprendre de quoi on parle exactement. Dans ce cas, il serait préférable de préciser les unités ('litres' pour la première question et 'km' pour la deuxième question). 
+
+Selon moi, il n'y pas d'autres réponses possibles qui pourraient créer un confusion. Chaque question demande une unique réponse et ces réponses sont décimales.

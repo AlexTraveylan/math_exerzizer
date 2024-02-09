@@ -1,0 +1,44 @@
+$-----$
+ENONCE
+$-----$
+Un magasin vend des stylos au prix de 1,5 € l'unité.
+$-----$
+QUESTION 1
+$-----$
+Quel sera le prix pour 50 stylos ?
+$-----$
+QUESTION 2
+$-----$
+Quel sera le prix pour 75 stylos ?
+$-----$
+QUESTION 3
+$-----$
+Paul a acheté des stylos pour un total de 45 €, combien de stylos a-t-il achetés ?
+$-----$
+REPONSE 1
+$-----$
+75
+$-----$
+EXPLICATION 1
+$-----$
+Le prix des stylos est proportionnel à la quantité de stylos. 
+Donc, pour 50 stylos, le prix sera de 50 * 1,5 = 75 €.
+$-----$
+REPONSE 2
+$-----$
+112.5
+$-----$
+EXPLICATION 2
+$-----$
+Le prix des stylos est proportionnel à la quantité de stylos. 
+Donc, pour 75 stylos, le prix sera de 75 * 1,5 = 112,5 €.
+$-----$
+REPONSE 3
+$-----$
+30
+$-----$
+EXPLICATION 3
+$-----$
+Le prix des stylos est proportionnel à la quantité de stylos. 
+Donc si Paul a dépensé 45 €, il a acheté 45 / 1,5 = 30 stylos.
+$-----$

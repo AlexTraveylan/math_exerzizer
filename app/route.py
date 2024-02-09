@@ -13,7 +13,7 @@ from app.flask_tools.exercices_provider import ExercicesProvider
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "http://localhost*"}})
+CORS(app, resources={r"/*": {"origins": "https://math-quotidien.vercel.app"}})
 ExercicesProvider.set_current_exercice()
 
 
@@ -181,3 +181,7 @@ def send_email():
 
         logger.info(api_response)
         return "ok", 201
+
+
+if __name__ == "__main__":
+    app.run(port=5001)

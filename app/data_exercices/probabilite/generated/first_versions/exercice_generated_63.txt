@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Julie a peint aussi bien des tableaux en noir et blanc qu'en couleur. Chaque tableau en noir et blanc est vendu 75 € et chaque tableau en couleur est vendu 120 €.
+$-----$
+QUESTION 1
+$-----$
+Combien Julie va-t-elle gagner avec la vente de 15 tableaux en noir et blanc ?
+$-----$
+QUESTION 2
+$-----$
+Si Julie a vendu pour 900 € de tableaux en noir et blanc, combien de tableaux a-t-elle vendu ?
+$-----$
+QUESTION 3
+$-----$
+Si Julie vend 10 tableaux en couleur, combien de tableaux en noir et blanc doit-elle vendre pour gagner à peu près autant ?
+$-----$
+REPONSE 1
+$-----$
+1125
+$-----$
+EXPLICATION 1
+$-----$
+Le gain obtenu par la vente des tableaux est directement proportionnel au nombre de tableaux vendus, le coefficient étant de 75 € par tableau. Donc pour la vente de 15 tableaux, Julie gagne 15*75 = 1125 €.
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+Pour déterminer le nombre de tableaux vendus, on doit diviser le total des revenus obtenus par le prix d'un tableau. Donc pour un revenu de 900 €, Julie a vendu 900 / 75 = 12 tableaux.
+$-----$
+REPONSE 3
+$-----$
+16
+$-----$
+EXPLICATION 3
+$-----$
+Pour gagner autant avec les tableaux en noir et blanc, le revenu obtenu avec ces derniers doit être égal à celui obtenu avec les tableaux en couleur, soit : 75*x = 120*10. On trouve donc x = (120*10) / 75, soit x = 16. Donc Julie doit vendre 16 tableaux en noir et blanc pour gagner autant qu'avec 10 tableaux en couleur.
+$-----$

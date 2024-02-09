@@ -1,0 +1,54 @@
+$-----$
+ENONCE
+$-----$
+Une papeterie vend un type de stylos au prix de 1,5 € l'unité.
+$-----$
+QUESTION 1
+$-----$
+Quel est le prix à payer pour 50 de ces stylos ?
+$-----$
+QUESTION 2
+$-----$
+Combien coûtera 75 de ces stylos ?
+$-----$
+QUESTION 3
+$-----$
+Paul a acheté uniquement ce type de stylo pour un total de 45 €, combien de stylos a-t-il achetés ?
+$-----$
+QUESTION 4
+$-----$
+Sophie a payé 37,5 € pour des stylos de ce type, combien de stylos a-t-elle achetés?
+$-----$
+REPONSE 1
+$-----$
+75
+$-----$
+EXPLICATION 1
+$-----$
+La dépense est proportionnelle au nombre de stylos achetés. On peut exprimer cette proportionnalité par l'égalité suivante : dépense = prix unitaire * nombre de stylos. 
+Pour 50 stylos, on a donc : dépense = 1,5 * 50 = 75 €.
+$-----$
+REPONSE 2
+$-----$
+112.5
+$-----$
+EXPLICATION 2
+$-----$
+De même que pour la première question, grâce à la proportionnalité, la dépense pour 75 stylos sera de : dépense = 1,5 * 75 = 112,5 €.
+$-----$
+REPONSE 3
+$-----$
+30
+$-----$
+EXPLICATION 3
+$-----$
+La question inverse est posée ici : connaissant la dépense totale de Paul, combien de stylos a-t-il pu acheter ? En utilisant la même relation de proportionnalité, on trouve le nombre de stylos par le calcul suivant : nombre de stylos = dépense / prix unitaire = 45 / 1,5 = 30 stylos.
+$-----$
+REPONSE 4
+$-----$
+25
+$-----$
+EXPLICATION 4
+$-----$
+De la même manière que pour la question précédente, on peut trouver le nombre de stylos que Sophie a achetés en résolvant l'équation suivante : nombre de stylos = dépense / prix unitaire = 37,5 / 1,5 = 25 stylos.
+$-----$

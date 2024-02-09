@@ -1,0 +1,30 @@
+$-----$
+ENONCE
+$-----$
+Le producteur d'un spectacle affirme que 1 heure de spectacle nécessite 4 jours de répétition. Chaque spectacle nécessite donc ses propres répétitions.
+$-----$
+QUESTION 1
+$-----$
+Combien de jours de répétition sont nécessaires pour un spectacle de 3 heures ?
+$-----$
+QUESTION 2
+$-----$
+Le producteur prévoit une semaine de représentations avec 7 spectacles. Si chaque spectacle dure 2 heures, combien de jours de répétition seront nécessaires pour la semaine entière ?
+$-----$
+REPONSE 1
+$-----$
+12
+$-----$
+EXPLICATION 1
+$-----$
+Les jours de répétition sont proportionnels à la durée du spectacle. Par conséquent, pour 3 heures de spectacle, on compte 3 * 4 = 12 jours de répétition.
+$-----$
+REPONSE 2
+$-----$
+56
+$-----$
+EXPLICATION 2
+$-----$
+Une semaine de représentations compte 7 spectacles. Ceci correspond à un total de 2 * 7 = 14 heures de spectacle. Ainsi, le nombre de jours de répétition nécessaires est 14 * 4 = 56 jours.
+
+$-----$

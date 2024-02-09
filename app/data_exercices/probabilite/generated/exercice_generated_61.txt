@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Un laboratoire produit des boîtes de médicaments. Une boîte de médicaments coûte 3 € à produire pour le laboratoire. Si le laboratoire produit 8000 boîtes, le coût total pour le laboratoire est de 24000 €
+$-----$
+QUESTION 1
+$-----$
+Quel serait le coût de production pour le laboratoire si il produit 5000 boîtes ?
+$-----$
+QUESTION 2
+$-----$
+Combien coûterait la production de 3000 boîtes pour le laboratoire ?
+$-----$
+QUESTION 3
+$-----$
+Avec un budget de 9000 €, combien de boîtes le laboratoire pourrait-il produire ?
+$-----$
+REPONSE 1
+$-----$
+15000
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, le coût de production d'une boîte est de 3 €. Donc pour produire 5000 boîtes, le coût serait de 3 x 5000 = 15000 €
+$-----$
+REPONSE 2
+$-----$
+9000
+$-----$
+EXPLICATION 2
+$-----$
+D'après l'énoncé, le coût de production d'une boîte est de 3 €. Donc pour produire 3000 boîtes, le coût serait de 3 x 3000 = 9000 €
+$-----$
+REPONSE 3
+$-----$
+3000
+$-----$
+EXPLICATION 3
+$-----$
+Avec un budget de 9000 € et le coût de production d'une boîte étant de 3 €, le laboratoire pourrait produire 9000 / 3 = 3000 boîtes.
+$-----$

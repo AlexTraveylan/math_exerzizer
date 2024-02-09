@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Lors d'une randonnée, Robert parcourt 15 km en 5 heures à allure constante. Cela veut dire qu'il couvre une distance de 3 km chaque heure (15 km / 5 h = 3 km/h). 
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourrait-il en 8 heures à cette même allure ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps lui faudrait-il pour parcourir 50 km à cette même allure ?
+$-----$
+QUESTION 3
+$-----$
+Quelle distance Robert pourrait-il parcourir en 30 minutes à cette même allure ?
+$-----$
+REPONSE 1
+$-----$
+24
+$-----$
+EXPLICATION 1
+$-----$
+S'il marche à la même allure, soit 3 km/h, pendant 8 heures, Robert parcourra 3 km/h * 8 h = 24 km.
+$-----$
+REPONSE 2
+$-----$
+16.67
+$-----$
+EXPLICATION 2
+$-----$
+Pour parcourir 50 km à une allure de 3 km/h, il lui faudrait 50 km / 3 km/h = 16,67 heures.
+$-----$
+REPONSE 3
+$-----$
+1.5
+$-----$
+EXPLICATION 3
+$-----$
+30 minutes équivaut à 0.5 heure. Donc, à une allure de 3 km/h, Robert parcourra 3 km/h * 0,5 h = 1,5 km en 30 minutes.
+$-----$

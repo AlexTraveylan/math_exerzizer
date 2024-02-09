@@ -1,0 +1,31 @@
+$-----$
+ENONCE
+$-----$
+Lors d'une sortie en vélo, Hugo parcourt une distance de 20km en 2 heures.
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourra-t-il en 5 heures à la même vitesse?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps lui faudrait-il pour parcourir 50km à cette vitesse ?
+$-----$
+REPONSE 1
+$-----$
+50
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue est proportionnelle au temps. Le coefficient de proportionnalité est 20/2 = 10
+Il parcourra donc en 5 heures, 10*5 = 50 km.
+$-----$
+REPONSE 2
+$-----$
+5
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour parcourir une distance est proportionnel à cette distance. Le coefficient de proportionnalité est 2/20 = 0.1
+Il lui faudra donc pour parcourir 50km, 50*0.1 = 5 heures.
+$-----$

@@ -1,0 +1,53 @@
+$-----$
+ENONCE
+$-----$
+Rémy a une collection de 120 cartes de foot. Il a décidé d'augmenter sa collection et son plan pour les prochains mois est d'augmenter le nombre de cartes de 20% par rapport au nombre de cartes qu'il avait à la fin du mois précédent.
+$-----$
+QUESTION 1
+$-----$
+Combien de cartes Rémy a-t-il au bout de 1 mois?
+$-----$
+QUESTION 2
+$-----$
+Combien de cartes Rémy a-t-il au bout de 2 mois?
+$-----$
+QUESTION 3
+$-----$
+Combien de cartes Rémy a-t-il au bout de 3 mois?
+$-----$
+QUESTION 4
+$-----$
+Après combien de mois Rémy aura doublé sa collection initiale ?
+$-----$
+REPONSE 1
+$-----$
+144
+$-----$
+EXPLICATION 1
+$-----$
+Au bout d'un mois, sa collection augmente de 20%, donc Rémy aura 120 + 120*20/100 = 144 cartes.
+$-----$
+REPONSE 2
+$-----$
+173
+$-----$
+EXPLICATION 2
+$-----$
+Au bout deux mois, sa collection augmente encore de 20%, donc : 144 + 144*20/100 = 172.8, mais étant donné qu'il ne peut pas avoir une fraction de carte, on arrondit ce nombre au plus proche entier, donc Rémy a environ 173 cartes.
+$-----$
+REPONSE 3
+$-----$
+208
+$-----$
+EXPLICATION 3
+$-----$
+Au bout de trois mois, sa collection augmente encore de 20%, donc : 173 + 173*20/100 = 207.6, on arrondit à 208 car on ne peut pas avoir une fraction de carte. Donc Rémy a environ 208 cartes.
+$-----$
+REPONSE 4
+$-----$
+4
+$-----$
+EXPLICATION 4
+$-----$
+Pour savoir combien de temps il faudra à Rémy pour doubler sa collection initiale, nous devons faire une approximation car le nombre de cartes est arrondi à l'entier le plus proche chaque mois. Après 4 mois, sa collection a doublé son total initial. Donc Remy aura doublé sa collection au bout de 4 mois. 
+$-----$

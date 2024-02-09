@@ -1,0 +1,32 @@
+
+$-----$
+ENONCE
+$-----$
+Un agriculteur traverse une période de sécheresse et décide de réduire la surface de son champ de blé de 12 %. À l'origine, il avait prévu de semer 500 kg de graines de blé sur son champ. Combien kg de graines devrait-il utiliser maintenant qu'il a réduit la taille de son champ ?
+$-----$
+QUESTION 1
+$-----$
+Quel pourcentage la nouvelle surface du champ de blé représente-t-elle par rapport à la surface originale ?
+(Note : Votre réponse doit être un nombre entier, arrondi à l'unité la plus proche si nécessaire).
+$-----$
+QUESTION 2
+$-----$
+Combien de kg de graines l'agriculteur devrait-il maintenant utiliser en tenant compte de la réduction de la taille de son champ ? 
+(Note : Votre réponse doit être un nombre décimal, arrondi à l'unité la plus proche si nécessaire).
+$-----$
+REPONSE 1
+$-----$
+88
+$-----$
+EXPLICATION 1
+$-----$
+Si la surface du champ de blé est réduite de 12 %, alors la nouvelle surface représente maintenant 100 % - 12 % = 88 % de la surface d'origine.
+$-----$
+REPONSE 2
+$-----$
+440
+$-----$
+EXPLICATION 2
+$-----$
+Si la nouvelle superficie du champ de blé n'est plus que de 88 % de l'originale, alors l'agriculteur n'a besoin que de 88 % des graines qu'il avait initialement prévues. Soit 500 kg * 88 % = 440 kg.
+$-----$

@@ -1,0 +1,9 @@
+D'après ce que je comprends de l'exercice, il consiste à appliquer le concept de la proportionnalité pour résoudre des problèmes liés à la quantité de terre que peut creuser une pelleteuse en fonction du temps. Autant l'énoncé que les questions sont clairs.
+
+Je suis d'accord avec les réponses fournies, elles sont correctes. Mais je me demande s'il ne serait pas plus intuitif pour les élèves de donner le temps nécessaire pour creuser 20 mètres cubes comme un nombre entier et non pas un décimal. Après tout, lorsque vous travaillez sur un chantier de construction, vous ne travaillez pas à la minute près. Peut-être que la question pourrait être reformulée pour demander combien de "heures complètes" il faudrait pour atteindre ce volume.
+
+Il n'y a pas de confusion possible sur les unités, elles sont explicitement indiquées dans le libellé de la question ("mètres cubes" pour le volume et "heures" pour le temps).
+
+Les questions sont suffisamment explicites, elles demandent une unique réponse claire. Cependant, l'accent sur la proportionnalité pourrait être renforcé, peut-être en ajoutant une question qui demande de trouver le ratio de creusement de la pelleteuse en mètres cubes par heure.
+
+Et oui, les réponses ne sont pas nécessairement des entiers, elles peuvent être des décimaux comme dans le cas de la deuxième question. C'est pourquoi je suggère de mettre l'accent sur les "heures complètes", cela éviterait une éventuelle confusion pour les élèves.

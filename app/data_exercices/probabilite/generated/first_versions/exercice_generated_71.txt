@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Sur un chantier de construction, une pelleteuse est capable de creuser 3 mètres cubes de terre en 1 heure.
+$-----$
+QUESTION 1
+$-----$
+Quelle quantité de terre en mètres cubes pourra-t-elle creuser en 5 heures ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps faudra-t-il à la pelleteuse pour creuser un trou de 20 mètres cubes ?
+$-----$
+REPONSE 1
+$-----$
+15
+$-----$
+EXPLICATION 1
+$-----$
+La quantité de terre que peut creuser la pelleteuse est proportionnelle au temps. Le ratio est de 3 mètres cubes par heure. Donc en 5 heures, elle peut creuser 5 * 3 = 15 mètres cubes.
+$-----$
+REPONSE 2
+$-----$
+6.67
+$-----$
+EXPLICATION 2
+$-----$
+La quantité de terre que peut creuser la pelleteuse est proportionnelle au temps. Le ratio est de 3 mètres cubes par heure. Donc pour creuser 20 mètres cubes, cela prendra 20 / 3 = 6,67 heures.
+$-----$

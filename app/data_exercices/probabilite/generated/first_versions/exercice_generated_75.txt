@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Pour peinturer sa salle de séjour, Helen utilise 2 pots de peinture pour une surface de 22m².
+$-----$
+QUESTION 1
+$-----$
+Combien de pots Helen a-t-elle besoin pour peinturer une surface de 77m² ?
+$-----$
+QUESTION 2
+$-----$
+Si un pot de peinture coûte 18€, combien Helen devra-t-elle dépenser pour peinturer 77m² ?
+$-----$
+REPONSE 1
+$-----$
+7
+$-----$
+EXPLICATION 1
+$-----$
+Le nombre de pots de peinture est proportionnel à la surface à peindre. Dans le cas d'Helen, le coefficient de proportionnalité est 2/22 = 0,09. Donc, pour peindre une surface de 77m², elle aurait besoin de 0,09 * 77 = 6,93 pots. Mais comme elle ne peut pas acheter une fraction de pot, elle devra acheter 7 pots de peinture au total.
+$-----$
+REPONSE 2
+$-----$
+126
+$-----$
+EXPLICATION 2
+$-----$
+Si un pot de peinture coûte 18€, alors pour 7 pots, Helen devra dépenser 7 * 18 = 126€ pour peinturer une surface de 77m².
+$-----$

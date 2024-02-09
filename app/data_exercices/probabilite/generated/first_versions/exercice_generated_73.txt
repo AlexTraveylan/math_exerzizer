@@ -1,0 +1,48 @@
+$-----$
+ENONCE
+$-----$
+Les parents de Manon lui versent une allocation de 40 € par mois.
+Les parents de Lisa, quant à eux, versent à leur fille une allocation 
+qui est le double de celle de Manon.
+$-----$
+QUESTION 1
+$-----$
+Quelle somme d'argent reçoit Lisa chaque mois ?
+$-----$
+QUESTION 2
+$-----$
+Si Manon décide d'économiser la totalité de son argent 
+durant 1 année, combien aura-t-elle économisé ?
+$-----$
+QUESTION 3
+$-----$
+Si Lisa décide d'économiser la totalité de son argent 
+durant 1 année, combien aura-t-elle économisé ?
+$-----$
+REPONSE 1
+$-----$
+80
+$-----$
+EXPLICATION 1
+$-----$
+D'après l'énoncé, Lisa reçoit le double d'argent de Manon.
+Donc elle reçoit 40x2 = 80 €.
+$-----$
+REPONSE 2
+$-----$
+480
+$-----$
+EXPLICATION 2
+$-----$
+Si Manon économise son argent durant 1 année, elle aura:
+40*12 = 480 €. 
+$-----$
+REPONSE 3
+$-----$
+960
+$-----$
+EXPLICATION 3
+$-----$
+Si Lisa économise son argent durant 1 année, elle aura :
+80 * 12 = 960 €. 
+$-----$

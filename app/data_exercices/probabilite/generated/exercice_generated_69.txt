@@ -1,0 +1,39 @@
+
+$-----$
+ENONCE
+$-----$
+Une voiture consomme, en moyenne, 7 litres d'essence pour une distance de 100 km. Cette consommation peut varier en fonction de plusieurs facteurs tels que la vitesse de conduite, l'état de la route, etc.
+$-----$
+QUESTION 1
+$-----$
+Combien de litres d'essence la voiture consomme-t-elle approximativement pour une distance de 350 km ?
+$-----$
+QUESTION 2
+$-----$
+Environ quelle distance la voiture peut-elle parcourir avec un plein de 60 litres d'essence ?
+$-----$
+REPONSE 1
+$-----$
+24.5
+$-----$
+EXPLICATION 1
+$-----$
+La consommation d'essence est proporionnelle à la distance parcourue. "Proportionnelle" signifie que lorsque la distance parcourue augmente, la consommation d'essence augmente aussi en suivant un certain taux. Ici, le taux est de 7 litres pour 100 km.
+
+On peut donc utiliser cette proportion pour calculer la consommation pour une autre distance :
+7 / 100 = C / 350
+C = 7 * 350 / 100
+C = 24.5 litres
+$-----$
+REPONSE 2
+$-----$
+857
+$-----$
+EXPLICATION 2
+$-----$
+En inversant la proportion de départ (100 km pour 7 litres), on peut déterminer combien de kilomètres la voiture peut parcourir avec une certaine quantité d'essence :
+100 / 7 = D / 60
+D = 100 * 60 / 7
+D = environ 857 km
+Cette valeur est une approximation et peut varier en fonction des facteurs mentionnés plus haut.
+$-----$

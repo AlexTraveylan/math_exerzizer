@@ -1,0 +1,31 @@
+$-----$
+ENONCE
+$-----$
+Lors d'une randonnée, Robert parcourt 15 km en 5 heures à allure constante.
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourra-t-il en 8 heures à cette même allure ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps lui faudra-t-il pour parcourir 36 km à cette même allure ?
+$-----$
+REPONSE 1
+$-----$
+24
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue est proportionnelle au temps passé à marcher. Le coefficient de proportionnalité est donc la vitesse de marche de Robert, soit 15/5 = 3 km/h.
+Ainsi, s'il marche 8 heures à cette allure, il parcourra 3 * 8 = 24 km
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+Après avoir identifié le rapport de proportionnalité en km/h, nous pouvons calculer le temps qu'il faut pour parcourir une distance en utilisant ce rapport.
+Ainsi, pour parcourir 36 km à une vitesse de 3 km/h, il lui faudrait 36/3 = 12 heures
+$-----$

@@ -1,0 +1,35 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une salle de cinéma, une place adulte coûte 9 € et une place enfant 5 €. Un groupe de personnes composé d'adultes et d'enfants achète un total de 36 places pour un montant de 260 €.
+
+Remarque : Ce genre de problème fait appel à notre compréhension des équations à deux inconnues. Par exemple, si nous appelons A le nombre d'adultes et E le nombre d'enfants, nous avons deux informations qui peuvent être traduites par les équations suivantes : A + E = 36 et 9A + 5E = 260. Cela peut ressembler à une simple opération d'addition ou de soustraction, mais en fait, ce n'est pas suffisant pour résoudre le problème. Nous devons trouver une manière de combiner ces deux informations pour trouver les solutions, c'est-à-dire, les valeurs de A et E qui rendent ces deux équations vraies.
+
+Essayons de résoudre ce problème ensemble.
+$-----$
+QUESTION 1
+$-----$
+Combien y avait-il d'adultes dans le groupe ?
+$-----$
+QUESTION 2
+$-----$
+Combien y avait-il d'enfants dans le groupe ?
+$-----$
+REPONSE 1
+$-----$
+20
+$-----$
+EXPLICATION 1
+$-----$
+Pour trouver le nombre d'adultes, nous devons résoudre le système d'équations. Une méthode est de combiner les deux équations afin d'éliminer l'une des variables. Par exemple, nous pouvons multiplier la première équation par 9, puis soustraire la deuxième de la première. Cela nous donne 9A + 9E - (9A + 5E) = 324 - 260, ce qui se simplifie en 4E = 64. En divisant par 4, nous obtenons E = 16.
+Puis on soustrait ce nombre à 36 (le total des places) pour obtenir le nombre d'adultes : A = 36 - 16 = 20.
+$-----$
+REPONSE 2
+$-----$
+16
+$-----$
+EXPLICATION 2
+$-----$
+Comme expliqué dans la question 1, après avoir résolu le système d'équations, nous trouvons que E (le nombre d'enfants) = 16.
+$-----$

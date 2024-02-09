@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Paul achète 5 mangues pour 7,50 €.
+$-----$
+QUESTION 1
+$-----$
+Combien coûte une seule mangue ?
+$-----$
+QUESTION 2
+$-----$
+Combien coûteraient 8 mangues ?
+$-----$
+REPONSE 1
+$-----$
+1.5
+$-----$
+EXPLICATION 1
+$-----$
+Le prix d'une seule mangue est obtenu en divisant le prix total par le nombre de mangues: 7,50 € / 5 = 1,50 €.
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+Sur base du prix d'une seule mangue, le coût de 8 mangues serait: 8 * 1,50 € = 12 €.
+$-----$

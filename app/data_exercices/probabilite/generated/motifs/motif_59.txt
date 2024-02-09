@@ -1,0 +1,11 @@
+L'exercice semble clair et les questions sont assez explicites. Elles ne laissent place à aucune ambiguïté. Les équations utilisées pour résoudre le problème sont également clairement expliquées. Aussi, les réponses fournies sont pertinentes puisqu'elles sont basées sur l'interprétation de deux équations mathématiques.
+
+Toutefois, je pense qu'il pourrait y avoir une petite confusion pour certains élèves, concernant l'approche à adopter pour résoudre ce genre de problème. En effet, certains pourraient penser que cet exercice n'est qu'une simple opération d’addition ou de soustraction, sans comprendre le besoin de formuler des équations. Il pourrait donc être bénéfique d'expliquer davantage la logique derrière la formulation de ces équations.
+
+De plus, il serait peut-être judicieux d'intégrer un rappel sur les équations à deux inconnues en début d'exercice, pour les élèves qui auraient du mal à se souvenir de la méthode pour les résoudre. Cela leur donnerait un rappel utile et rendrait l'exercice de résolution plus facile.
+
+Concernant les unités, il n'y a pas de confusion possible car il est bien spécifié qu'on parle de nombre de personnes et de places. 
+
+En ce qui concerne les réponses, chaque question demande une unique réponse qui est un entier. Il n'y a pas de place pour une réponse en décimaux dans ce contexte.
+
+D'une manière générale, l'exercice est bien conçu mais il pourrait être amélioré par l'ajout de davantage d'explications pour soutenir les élèves dans leur processus de résolution.

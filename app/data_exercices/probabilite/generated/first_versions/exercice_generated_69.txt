@@ -1,0 +1,38 @@
+
+$-----$
+ENONCE
+$-----$
+Une voiture consomme 7 litres d'essence pour une distance de 100 km.
+$-----$
+QUESTION 1
+$-----$
+Combien de litres d'essence la voiture consomme-t-elle pour une distance de 350 km ?
+$-----$
+QUESTION 2
+$-----$
+Quelle distance la voiture peut-elle parcourir avec un plein de 60 litres d'essence ?
+$-----$
+REPONSE 1
+$-----$
+24.5
+$-----$
+EXPLICATION 1
+$-----$
+La consommation d'essence est proporionnelle à la distance parcourue.
+D'où : 7 / 100 = C / 350
+C = 7 * 350 / 100
+C = 24.5
+Donc pour une distance de 350 km, la voiture consomme 24.5 litres d'essence.
+$-----$
+REPONSE 2
+$-----$
+857.1428571428571
+$-----$
+EXPLICATION 2
+$-----$
+La distance parcourue est proporionnelle à la quantité d'essence.
+D'où : 100 / 7 = D / 60
+D = 100 * 60 / 7
+D = 857.1428571428571
+Donc avec un plein de 60 litres d'essence, la voiture peut parcourir environ 857 km.
+$-----$

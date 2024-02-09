@@ -1,0 +1,32 @@
+
+$-----$
+ENONCE
+$-----$
+Paul va au marché afin d'acheter plusieurs mangues. Le vendeur lui propose de les vendre à l'unité et lui offre un panier contenant 4 mangues pour 5,40 € au lieu de les prendre à l'unité pour 1,50 € l'une.
+$-----$
+QUESTION 1
+$-----$
+Combien Paul économisera-t-il en achetant le panier plutôt que les mangues à l'unité ? Précise la réponse en euros.
+$-----$
+QUESTION 2
+$-----$
+Si le panier de mangues coûte en moyenne 20% de moins que d'acheter les fruits à l'unité, combien coûterait un panier de 5 mangues sur cette base ? Donne ta réponse en euros.
+$-----$
+REPONSE 1
+$-----$
+1.1
+$-----$
+EXPLICATION 1
+$-----$
+Le coût total si Paul achète 4 mangues à l'unité serait de 4 * 1,50 € = 6,00 €.
+En achetant le panier, Paul paie 5,40 € au lieu de 6,00 € en les prenant à l'unité. Ainsi, Paul économise donc 6,00 € - 5,40 € = 1,10 € en prenant le panier.
+$-----$
+REPONSE 2
+$-----$
+6
+$-----$
+EXPLICATION 2
+$-----$
+Si Paul devait acheter 5 mangues à l'unité, cela lui coûterait 5 * 1,50 € = 7,50 €.
+Si le panier de mangues coûte en moyenne 20% de moins que d'acheter les fruits à l'unité, le panier de 5 mangues coûterait 7,50 € - 20% = 7,50 € - 1,50 € = 6,00 €.
+$-----$

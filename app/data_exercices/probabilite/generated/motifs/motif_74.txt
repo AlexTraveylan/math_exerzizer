@@ -1,0 +1,7 @@
+Tout d'abord, l'énoncé et les questions sont clairs et compréhensibles à mon niveau. C'est bien un problème pratique et le fait qu'il est ancré dans une situation réelle peut rendre l'apprentissage plus intéressant.
+
+Cependant, je pense que la question 1 pourrait être reformulée pour éviter toute confusion. Elle demande la "nouvelle surface du champ en pourcentage par rapport à l'original". Cela pourrait porter à confusion car on pourrait comprendre que vous nous demandez de donner la réduction en pourcentage, et non pas la nouvelle surface. Il serait peut-être mieux de demander "Quel pourcentage la nouvelle surface du champ de blé représente-t-elle par rapport à la surface originale ?"
+
+En ce qui concerne les réponses, elles sont correctes et il n'est pas possible de donner une autre réponse qui serait également correcte. L'unité n'est pas mentionnée dans la réponse, ce qui pourrait porter à confusion. Il serait bon de préciser que les réponses sont en pourcentage et en kilogrammes.
+
+Finalement, chaque question demande bien une réponse unique. Les réponses peuvent être des entiers pour la première question et des décimaux pour la deuxième question, mais elles peuvent aussi être des entiers si l'on arrondit à l'unité près. Je pense que cela devrait être précisé dans l'énoncé pour éviter toute confusion.

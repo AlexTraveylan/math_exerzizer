@@ -1,0 +1,11 @@
+L'énoncé de l'exercice est assez clair et direct. Il définit bien les données de départ qui sont le nombre de pots de peinture nécessaires pour une certaine surface. Les questions sont aussi claires et directes, demandant une unique réponse bien spécifique. 
+
+Pour la première réponse, je suis d'accord avec l'utilisation de la proportionnalité pour déterminer le nombre de pots nécessaires. Cependant, je pense qu'il serait utile de préciser que nous arrondissons le nombre de pots à l'entier supérieur, car on ne peut pas acheter un pot de peinture en fraction. 
+
+Pour la deuxième réponse, la multiplication est correcte, mais là encore, un point qui pourrait causer confusion est absent. Il faut expliciter que le prix est pour un pot entier de peinture et non pas pour une fraction de pot.
+
+En termes de possible confusion, je pense que tout est clair concernant les unités. Les m² sont utilisés pour mesurer la surface et le nombre de pots est sans unité.
+
+Une amélioration possible serait d'ajouter plus de contexte ou de détails pour être plus réaliste. Par exemple, Helen pourra-t-elle vraiment peindre précisément 22m² avec deux pots de peinture ? Que se passe-t-il si elle doit passer une deuxième couche ? Il serait intéressant de rendre l'exercice plus proche de la réalité.
+
+En somme, répondant aux questions uniques, les réponses sont uniquement des entiers (nombre de pots, prix à payer) à l'exception du calcul où nous avons dû arrondir le nombre de pots.

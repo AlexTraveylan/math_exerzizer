@@ -1,0 +1,11 @@
+J'ai compris l'énoncé et je trouve les questions plutôt claires. Cependant, je crois observer une certaine confusion possible tant dans les questions que dans les réponses.
+
+Pour la QUESTION 1, l'unité d'argent utilisée n'est pas mentionnée dans la question elle-même, juste dans l'énoncé. Je pense que cet élément devrait être inclus dans la question pour plus de clarté. Par exemple, la question pourrait être : "Combien Sarah doit-elle dépenser en euros si elle veut lancer une fête avec 30 melons ?"
+
+Concernant la REPONSE 1, bien qu'elle soit correcte mathématiquement, elle ne précise pas non plus l'unité. Je trouve cela important surtout dans nos cas d'apprentissage des mathématiques d'avoir des détails. Ici, l'élève pourrait répondre "36 melons" au lieu de "36 euros", puisqu'il s'agit d'une question sur les melons. C'est une confusion possible. Donc, la réponse pourrait être reformulée comme : "Sarah dépensera 36 euros." 
+
+Quant à la QUESTION 2, je pense qu'elle pourrait être formulée de manière plus précise pour éviter les confusions. Par exemple, elle pourrait être reformulée ainsi : "Si le maraîcher décide de donner à Sarah un melon gratuit pour chaque tranche de 10 melons qu'elle achète, combien de melons aura-t-elle au total si elle en achète 30 ? "
+
+Pour la REPONSE 2, bien que mathématiquement correcte, là aussi, l'unité manque. Elle devrait être précisée, comme : "Elle aura 33 melons au total."
+
+En ce qui concerne les explications, elles sont plutôt explicites et elles ne font pas allusion aux unités. Et les réponses demandées ne contiennent que des chiffres entiers, donc pas de problème de ce côté-là.

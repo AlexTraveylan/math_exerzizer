@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une salle de cinéma, une place adulte coûte 9 € et une place enfant 5 €. Un groupe de personnes composé d'adultes et d'enfants achète un total de 36 places pour un montant de 260 €.
+$-----$
+QUESTION 1
+$-----$
+Combien y avait-il d'adultes dans le groupe ?
+$-----$
+QUESTION 2
+$-----$
+Combien y avait-il d'enfants dans le groupe ?
+$-----$
+REPONSE 1
+$-----$
+20
+$-----$
+EXPLICATION 1
+$-----$
+Laissons A représenter les adultes et E représenter les enfants. Nous avons donc les deux équations suivantes comme A + E = 36 et 9A + 5E = 260. En résolvant ces deux équations, nous trouvons que le nombre d'adultes A est égal à 20. 
+$-----$
+REPONSE 2
+$-----$
+16
+$-----$
+EXPLICATION 2
+$-----$
+Comme le nombre total de places était de 36, et que nous avons déjà calculé que le nombre d'adultes était de 20, le nombre d'enfants E est donc égal à 36 - 20 = 16.
+$-----$

@@ -1,0 +1,11 @@
+D'accord avec l'énoncé et les questions, et je trouve que les réponses sont correctes et précises. Cependant, il y a encore quelques points à améliorer.
+
+Pour la Question 1, il n'est pas vraiment nécessaire de comprendre la nature proportionnelle de la situation pour répondre correctement. On pourrait le rendre plus stimulant en demandant, par exemple, combien de tableaux en noir et blanc Julie devrait vendre pour atteindre un certain objectif de revenu.
+
+En ce qui concerne la Question 2, elle pourrait être reformulée pour être plus pertinente au contexte : "Si Julie a gagné 900 € de ses tableaux en noir et blanc, combien de tableaux a-t-elle vendu ?". Cela clarifierait qu'il s'agit des gains provenant des tableaux en noir et blanc et non de la totalité de ses tableaux.
+
+Enfin, pour la Question 3, il peut y avoir une confusion avec l'utilisation de l'expression "à peu près autant". Certains élèves pourrait comprendre que Julie n'a pas à vendre exactement le même nombre de tableaux. Il serait donc préférable d'utiliser une formulation plus précise, du type : "Combien de tableaux en noir et blanc doit-elle vendre pour gagner exactement la même somme".
+
+Toutes les réponses sont des entiers, ce qui est approprié puisque nous ne pouvons pas vendre un nombre fractionnaire de tableau. Cependant, il serait également utile de préciser cela dans l'énoncé pour éviter toute confusion potentielle. 
+
+Je trouve que chaque question demande une unique réponse, ce qui est bien.

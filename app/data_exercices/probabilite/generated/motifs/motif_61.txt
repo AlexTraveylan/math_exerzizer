@@ -1,0 +1,9 @@
+Oui, je comprends l'énoncé et les questions. L'énoncé est assez clair. Il s'agit d'un exercice de multiplication basique, donc non, aucune autre réponse n'est possible.
+
+Je suis d'accord avec les réponses. Le calcul est correct, le coût de production pour 8000 boîtes serait de 24 000 € et celui pour 500 boîtes serait de 1 500 €.
+
+En revanche, je trouve que l'énoncé de base est trompeur en indiquant que pour 5000 boîtes, le coût total est de 15 000 €. Si chaque boîte coûte 3 € à produire, alors le coût total pour 5000 boîtes devrait être de 5000 boîtes * 3 € = 15 000 €. Donc il y a une confusion possible sur les unités ici.
+
+Les questions sont suffisamment explicites et demandent une unique réponse. Ces réponses sont uniquement des entiers, donc c'est bien pour un exercice de maths.
+
+Pour améliorer cet exercice, je suggère de corriger l'erreur dans l'énoncé de base pour éviter toute confusion. De plus, il pourrait être intéressant d'inclure des questions demandant aux élèves de réfléchir davantage, par exemple, demander combien de boîtes le laboratoire pourrait produire avec un certain budget.

@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une boulangerie, 2 baguettes de pain coûtent 2€. 
+$-----$
+QUESTION 1
+$-----$
+Combien coûtent 5 baguettes de pain ?  
+$-----$
+QUESTION 2
+$-----$
+Combien peut-on acheter de baguettes de pain avec 12€ ?   
+$-----$
+REPONSE 1
+$-----$
+5
+$-----$
+EXPLICATION 1
+$-----$
+La quantité de baguettes est proportionnelle au prix. Donc, pour cinq baguettes de pain, le coût sera 2€ x (5/2) = 5€. 
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+La quantité de baguettes est proportionnelle au prix. Donc, pour un montant de 12€, on peut acheter 12€ / 2€/baguette = 6 baguettes.
+$-----$

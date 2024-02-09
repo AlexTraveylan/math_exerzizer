@@ -1,0 +1,30 @@
+
+$-----$
+ENONCE
+$-----$
+Dans une boulangerie, 2 baguettes de pain coûtent 2€. 
+$-----$
+QUESTION 1
+$-----$
+Combien coûterait exactement 5 baguettes de pain, en supposant que le coût d'une baguette est le même que celui de deux baguettes ?
+$-----$
+QUESTION 2
+$-----$
+Combien de baguettes de pain pourriez-vous acheter exactement avec 12€, en supposant que le coût d'une baguette est le même que celui de deux baguettes ?   
+$-----$
+REPONSE 1
+$-----$
+5
+$-----$
+EXPLICATION 1
+$-----$
+On sait que le coût de deux baguettes est 2€, donc on peut déduire que le coût d'une baguette est de 2€/2 = 1€. Par conséquent, le coût de cinq baguettes sera de 5 * 1€ = 5€.
+$-----$
+REPONSE 2
+$-----$
+12
+$-----$
+EXPLICATION 2
+$-----$
+On sait que le coût d'une baguette est de 1€. Ainsi, avec un budget de 12€, nous pouvons acheter 12 baguettes car 12€ / 1€ = 12.
+$-----$

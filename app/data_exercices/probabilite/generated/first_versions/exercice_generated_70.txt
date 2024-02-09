@@ -1,0 +1,41 @@
+$-----$
+ENONCE
+$-----$
+Alice économise pour son voyage en achetant une boite pour économiser de l'argent. Elle a décidé de mettre 2 euros chaque jour. 
+$-----$
+QUESTION 1
+$-----$
+Combien d'argent Alice aura-t-elle économisé après une semaine ?
+$-----$
+QUESTION 2
+$-----$
+Combien d'argent Alice aura-t-elle économisé après un mois de 30 jours ?
+$-----$
+QUESTION 3
+$-----$
+Alice décide d'augmenter sa contribution quotidienne à 3 euros. Combien d'argent aura-t-elle économisé après 50 jours ? 
+$-----$
+REPONSE 1
+$-----$
+14
+$-----$
+EXPLICATION 1
+$-----$
+Comme Alice économise 2 euros par jour pendant 7 jours, elle aura donc 2 * 7 = 14 euros après une semaine.
+$-----$
+REPONSE 2
+$-----$
+60
+$-----$
+EXPLICATION 2
+$-----$
+Avec une économie de 2 euros par jour pendant 30 jours, Alice aura 2 * 30 = 60 euros à la fin du mois.
+$-----$
+REPONSE 3
+$-----$
+150
+$-----$
+EXPLICATION 3
+$-----$
+Après avoir augmenté sa contribution quotidienne à 3 euros, Alice aura 3 * 50 = 150 euros après 50 jours.
+$-----$

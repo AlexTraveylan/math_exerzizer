@@ -1,0 +1,47 @@
+$-----$
+ENONCE
+$-----$
+Lors d'une sortie en vélo, Hugo parcourt une distance de 20km (kilomètres) en 2 heures.
+Dans la deuxième partie de sa randonnée, Hugo décide des ralentir et roule à une vitesse moyenne de 7km/h.
+$-----$
+QUESTION 1
+$-----$
+Quelle distance parcourra-t-il au total en 5 heures à ces vitesses ?
+$-----$
+QUESTION 2
+$-----$
+Combien de temps lui faudrait-il pour parcourir 50km si il conserve la vitesse de la deuxième partie de sa randonnée?
+$-----$
+QUESTION 3
+$-----$
+Si Hugo décide d'augmenter sa moyenne de vitesse à 9 km/h lors du retour. En combien de temps devrait-il rentrer ?
+$-----$
+REPONSE 1
+$-----$
+37
+$-----$
+EXPLICATION 1
+$-----$
+La distance parcourue est proportionnelle au temps. Le coefficient de proportionnalité de la première partie de sa randonnée est 20/2 = 10 km/h, celui de la deuxième partie est 7km/h.
+Pendant la première heure, il parcourt à 10 km/h: 10*1 = 10 km.
+Pendant les 4 heures restantes, il parcourt à 7 km/h: 7*4 = 28 km.
+La distance totale parcourue en 5 heures est donc de 10 km + 28 km = 38 km.
+$-----$
+REPONSE 2
+$-----$
+7.14285714286
+$-----$
+EXPLICATION 2
+$-----$
+Le temps nécessaire pour parcourir une distance est proportionnel à cette distance. Le coefficient de proportionnalité est 1/7 = 0.14285 h/km
+Il lui faudra donc pour parcourir 50km, 50*0.14285 = 7.14285714286 heures. Soit environ 7 heures et 9 minutes.
+$-----$
+REPONSE 3
+$-----$
+4.22222222222
+$-----$
+EXPLICATION 3
+$-----$
+Pour le retour, Hugo doit parcourir la même distance qu'à l'aller, soit 20 km, mais sa vitesse a augmenté à 9 km/h.
+Le temps nécessaire pour parcourir cette distance à cette vitesse est 20 / 9 = 2.22222222222 heures. Soit environ 2 heures et 13 minutes.
+$-----$

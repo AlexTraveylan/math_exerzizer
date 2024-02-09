@@ -1,0 +1,9 @@
+Je trouve cet exercice de mathématiques assez clair et facile à comprendre, ce qui est positif. Les questions sont formulées simplement et demandent des réponses précises. 
+
+Cependant, je pense qu'il pourrait améliorer la complexité de cet exercice. En effet, les questions posées requièrent uniquement une application directe de règles d'arithmétique basique. Un peu trop basique pour nous, en 4eme. 
+
+Une autre critique que j'aurai est l'utilisation des unités. Dans l'énoncé, on établit que le prix des mangues est en euros, mais dans les questions, il est simplement demandé "combien coûterait" sans préciser l'unité. On suppose implicitement que c'est en euros, mais il pourrait être bénéfique de le préciser pour éviter toute confusion, notamment pour ceux qui débutent dans l'apprentissage des mesures et unités.
+
+En outre, les réponses aux questions sont exclusivement des décimaux pour la question 1 (1.5 €) et des entiers pour la question 2 (12 €), ce qui est quelque chose dont il faut tenir compte lors de la rédaction des questions.
+
+En conclusion, l'exercice est compréhensible mais pourrait être amélioré en termes de complexité et de précision concernant les unités. En 4eme, on devrait pouvoir faire face à des situations plus complexes, qui invitent à plus de réflexion.

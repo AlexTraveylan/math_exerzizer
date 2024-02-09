@@ -1,0 +1,11 @@
+Je comprends parfaitement l'énoncé et les questions de l'exercice. Ces dernières sont claires et demandent chacune une réponse unique. Il n'y a pas de possibilité de donner une autre réponse qui pourrait créer une confusion.
+
+Néanmoins, j'ai quelques suggestions critiques pour améliorer l'exercice.
+
+1. Les unités ne sont pas toujours spécifiées : Dans l'énoncé, la vitesse est donnée en km/h mais les unités ne sont pas rappelées dans les questions ou les réponses. Il serait utile de les spécifier pour éviter toute confusion.
+
+2. Les questions sont un peu prévisibles : Comme l'exercice traite de la vitesse, les questions sont relativement prévisibles - elles demandent simplement de calculer soit une distance, soit un temps, en utilisant la vitesse donnée. Peut-être pourrions-nous rendre l'exercice plus intéressant en introduisant des variations de vitesse ou en posant des questions qui nécessitent une réflexion plus profonde sur les concepts impliqués.
+
+En ce qui concerne les réponses, elles sont exactes et formulées de manière à expliquer clairement le raisonnement utilisé. Cela dit, elles impliquent toutes deux des calculs assez simples et ne demandent pas vraiment d'appliquer une compréhension profonde des concepts de proportionnalité ou de vitesse. Peut-être pourrions-nous ajouter une question plus complexe pour rendre l'exercice plus stimulant. 
+
+Enfin, les réponses sont des entiers, ce qui facilite les calculs, mais il serait également utile d'inclure des exemples avec des décimaux pour favoriser une meilleure compréhension de ces concepts.

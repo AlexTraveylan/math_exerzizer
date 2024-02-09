@@ -1,0 +1,29 @@
+$-----$
+ENONCE
+$-----$
+Le producteur d'un spectacle affirme que 1 heure de spectacle nécessite 4 jours de répétition.
+$-----$
+QUESTION 1
+$-----$
+Combien de jours de répétition sont nécessaires pour un spectacle de 2h30 ?
+$-----$
+QUESTION 2
+$-----$
+Combien de jours de répétition sont nécessaires pour une semaine de représentations si chaque spectacle dure 1h45 ?
+$-----$
+REPONSE 1
+$-----$
+10
+$-----$
+EXPLICATION 1
+$-----$
+Les jours de répétition sont proportionnels à la durée du spectacle. Par conséquent, pour 2h30 de spectacle, on compte 2.5 * 4 = 10 jours de répétition.
+$-----$
+REPONSE 2
+$-----$
+28
+$-----$
+EXPLICATION 2
+$-----$
+Une semaine de représentations compte 7 spectacles. Ceci correspond à un total de 1.75 * 7 = 12.25 heures de spectacle. Ainsi, le nombre de jours de répétition nécessaires est 12.25 * 4 = 49 jours.
+$-----$
