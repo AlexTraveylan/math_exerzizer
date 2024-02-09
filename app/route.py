@@ -1,4 +1,5 @@
 """ This module contains the routes of the application """
+
 import logging
 from flask import Flask, request
 from flask_cors import CORS
@@ -40,6 +41,16 @@ def check():
         pass
 
     return "ok", 200
+
+
+@app.route("/get_history", methods=["GET"])
+def get_history():
+    """Return the history"""
+
+    exercices = ExercicesProvider.get_all_exercices()
+    data = [exercice.__dict__ for exercice in exercices]
+
+    return data, 200
 
 
 @app.route("/question", methods=["GET"])

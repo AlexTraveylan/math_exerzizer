@@ -1,4 +1,5 @@
 """Module to provide exercices"""
+
 import logging
 import os
 from pathlib import Path
@@ -20,6 +21,30 @@ class ExercicesProvider:
     _currend_exercice_id: int = None
     _nb_propositions: int = 0
     nb_bonnes_reponses: int = 0
+
+    @classmethod
+    def get_all_exercices(cls) -> list[Exercice]:
+        """Return all exercices"""
+        exercices = os.listdir("app/data_exercices/probabilite/generated")
+        exercices_ids = [
+            int(exercice.split(".")[0].split("_")[-1])
+            for exercice in exercices
+            if exercice.startswith("exercice_generated")
+        ]
+
+        exercices = [
+            Exercice.from_file(
+                data_parsed=list(
+                    ExerciceParser(
+                        file_path=PROBABILITE_PATH
+                        / f"exercice_generated_{exercice}.txt"
+                    ).parse()
+                )
+            )
+            for exercice in exercices_ids
+        ]
+
+        return exercices
 
     @classmethod
     def compute_nb_bonnes_reponses(cls, results: list[bool]) -> None:
